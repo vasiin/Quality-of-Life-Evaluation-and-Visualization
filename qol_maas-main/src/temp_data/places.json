@@ -1,0 +1,884 @@
+{
+  "html_attributions": [],
+  "next_page_token": "Aaw_FcJAovQI08icvpAEQlzDlv3AVIkUbWGrvuMRVOg_Y96flAJ_WfJHm6QMH4x3LLCn_0CB7X_QXZIShznO02EOoe88BUJhIR6nf80S1PNVkfo9chqSnzmzY8VGLzuZ9FA1aUd3Acd_zA-M2kczoE3-TyxUow7SYLnuZb9ij5EakgbTQo5FUkZv59G24uck39eUapHzdZ419D642Rj1wC5mDS63oS7ARLSk32sIrFZRDEG9_NHnO3o-yO1Q_I_iwzTAFBenPcj0_Eo-s0u3OcHmji7PLvbh8yuqErdNsDETutAjzjscfQsQDkFs4NlP8bYRIb1xtChwOOc_fFpPFx8gWvBvKc3lICTHydyRcO81C0HlcQmBWF1eIVnmla9xvt4-taMMMAGUJyL-kIzuSgmGSN_W27Y",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0734367,
+          "lng": 100.602876
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07493307989272,
+            "lng": 100.6042339298927
+          },
+          "southwest": {
+            "lat": 14.07223342010728,
+            "lng": 100.6015342701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107908028601116719259\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcIVKG_C8JgOGZGQ3ivRnFj6NAdZ2wBQszfhxS-Q4JsIz6VBYatzteSW11tYTy-NGn7bB95lViiUswo4KgMr08hECEKr6nV0GI2qHJWPH0CyV_ep4YWcqjjPIlW02MMMDQA7Y1_3OrqzOqLlsSwcb-WWZhX6KNC__CXDQ3L92WSP94Q6",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJP9fosex_4jARdKapl3ygFOE",
+      "plus_code": {
+        "compound_code": "3JF3+95 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF3+95"
+      },
+      "rating": 4.6,
+      "reference": "ChIJP9fosex_4jARdKapl3ygFOE",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 1322
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "เลขที่ 2 ถนนพระจันทร์ แขวงพระบรมมหาราชวัง กรุงเทพมหานคร 10200",
+      "geometry": {
+        "location": {
+          "lat": 13.7572687,
+          "lng": 100.4913892
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75855027989272,
+            "lng": 100.4927125798927
+          },
+          "southwest": {
+            "lat": 13.75585062010728,
+            "lng": 100.4900129201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะนิติศาสตร์ มหาวิทยาลัยธรรมศาสตร์\u200b ท่าพระ\u200bจันทร์\u200b",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100816769617240315037\">Hoàng Sơn Nguyễn</a>"
+          ],
+          "photo_reference": "Aaw_FcLR41isAJ5MLuI9SURtuTN0bmC-kENvcKnbX2DIf9A35Zybt5fYgM5DTig0xXrZDicaFTbQuVf92CAjNp6-CmXYszJUtmzaqqCK4hjtS0lKsGVhdblwCWrQDvloABKpaUndfljvdyj8rT7fiRFDbn2LvLdqBd_dOVQDL-QkI6BXcLmW",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJa3PrkgyZ4jARLz9QCKTKXt8",
+      "plus_code": {
+        "compound_code": "QF4R+WH กรุงเทพมหานคร",
+        "global_code": "7P52QF4R+WH"
+      },
+      "rating": 4.5,
+      "reference": "ChIJa3PrkgyZ4jARLz9QCKTKXt8",
+      "types": ["university", "lawyer", "point_of_interest", "establishment"],
+      "user_ratings_total": 32
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2 ถ. พระจันทร์ แขวงพระบรมมหาราชวัง เขตพระนคร กรุงเทพมหานคร 10200",
+      "geometry": {
+        "location": {
+          "lat": 13.7566643,
+          "lng": 100.4897612
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75803877989272,
+            "lng": 100.4910456298927
+          },
+          "southwest": {
+            "lat": 13.75533912010728,
+            "lng": 100.4883459701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์ท่าพระจันทร์",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112918603790459190673\">Nakhon Chiang khong</a>"
+          ],
+          "photo_reference": "Aaw_FcJiWC9yycj0a9NCrYichctnlDtQQKygtzGZ6hFMI4bt5fJuI-n7Twx9mYTBYp8dUxGbd4jpz2TAa3an3szA2Fn-jB7XFOWU7KCAhoKjA4En5XcyBks3b7ucEgaQ1wdwby9yN2m-g7SDQGF9BTPpBQ_qejyq-jDUrXEG3xJi5MutMs7d",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJI4SgnwyZ4jARB-C_wAirvyc",
+      "plus_code": {
+        "compound_code": "QF4Q+MW กรุงเทพมหานคร",
+        "global_code": "7P52QF4Q+MW"
+      },
+      "rating": 4.6,
+      "reference": "ChIJI4SgnwyZ4jARB-C_wAirvyc",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 928
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "248 หมู่ที่ 2 ถนน ถนน ซุปเปอร์ไฮเวย์ เชียงใหม่-ลำปาง ตำบล ปงยางคก อำเภอห้างฉัตร ลำปาง 52190",
+      "geometry": {
+        "location": {
+          "lat": 18.3174089,
+          "lng": 99.3992878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 18.31866147989272,
+            "lng": 99.40040882989271
+          },
+          "southwest": {
+            "lat": 18.31596182010728,
+            "lng": 99.39770917010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง",
+      "photos": [
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115115982209021239395\">นายสุเมธ ปะหุปะโพธ์</a>"
+          ],
+          "photo_reference": "Aaw_FcIghuZ0eVboKP-9K0SGalYwzLAWTxrI0q9NeY_ycOTxh2nywbwU2OfVFejpJ2hmftIcTnzyppxtL3Z6TvO3gvaBQL-dys3uiwRdD2j_TsYFaEMICT6sF8jNnZVueKry-ptOnigV-WeCyJRs1Lpeya8BP3DF1RP5afd34e5rlOrrY5IF",
+          "width": 5120
+        }
+      ],
+      "place_id": "ChIJ-dEdSiZv2TARUDGz2cZGAw8",
+      "plus_code": {
+        "compound_code": "898X+XP ตำบล ปงยางคก อำเภอห้างฉัตร ลำปาง",
+        "global_code": "7MCX898X+XP"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ-dEdSiZv2TARUDGz2cZGAw8",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 109
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Phon Prapha Road , Pong , 20150 Bang Lamung , Chon Buri, 20150",
+      "geometry": {
+        "location": {
+          "lat": 12.9193265,
+          "lng": 100.9961363
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 12.92090747989272,
+            "lng": 100.9975295298927
+          },
+          "southwest": {
+            "lat": 12.91820782010728,
+            "lng": 100.9948298701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "มหาวิทยาลัยธรรมศาสตร์ ศูนย์พัทยา",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102552699336735887644\">Mikhail Ivanov</a>"
+          ],
+          "photo_reference": "Aaw_FcLvp1qGaEyEGkUriR8djvL1-fmHaESTlswRfTyNnWs7igJr9GtyLeIhF1WapQIKJ_0cdEm-fsOLZpTsJAtKSbYGYL0xfYLKPEDZ1VRh8q-SpobYYIW_awckZoX7zHePnqwiRK1-iiNWx1lTmTRwR9ibiBSyBVthCJ5g2tQQeYdnHnE",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJq16ZQsfqAjER6HdNRVeWjwc",
+      "plus_code": {
+        "compound_code": "WX9W+PF ตำบล โป่ง อำเภอบางละมุง ชลบุรี",
+        "global_code": "7P42WX9W+PF"
+      },
+      "rating": 4.4,
+      "reference": "ChIJq16ZQsfqAjER6HdNRVeWjwc",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 20
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 หมู่ที่ 18 ถ. พหลโยธิน คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0716504,
+          "lng": 100.6041155
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07292427989272,
+            "lng": 100.6053154298927
+          },
+          "southwest": {
+            "lat": 14.07022462010728,
+            "lng": 100.6026157701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 462,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103823529386777675846\">Pajaree Piaonim</a>"
+          ],
+          "photo_reference": "Aaw_FcL0GGmg5jGTpaHsaajR4I1Qm5qrlmKG0OhjzLOEnj8ndWelZpuJ5tnjhT_jFtUGGogYrW31WEAUg7QMAd3Mgkihkro58hvXKtBPrefpkX2ahjHcTc12h0CCI26pk8ZwbZDYGreA7N1J1gfYR9xOBpGPvJ5z1KrNPEaOx-H2NjJjkGK7",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJdc38X-t_4jARFJp2iEVyJrk",
+      "plus_code": {
+        "compound_code": "3JC3+MJ ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JC3+MJ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJdc38X-t_4jARFJp2iEVyJrk",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 23
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 หมู่ 18 ถนน พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12121",
+      "geometry": {
+        "location": {
+          "lat": 14.0680981,
+          "lng": 100.6087633
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.06924547989272,
+            "lng": 100.6101604798927
+          },
+          "southwest": {
+            "lat": 14.06654582010728,
+            "lng": 100.6074608201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง มหาวิทยาลัยธรรมศาสตร์",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114487402035444957838\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcIkZc5Nrlk3cLlzF30eHtL0e1TM_nf9tGYoVqovHdqTUM6HrG7QF8tAHZ5wMMOWSHuyQ9r--GHJCv-iMBEWrmZ1yFHowNNV9EGeVBWfDvSbydT7A5_yCeZho4CO4BFQLV26vmGNbVYJZo4jWsW9BBSIK6j322KqVmAb87Q8HtpFTc-x",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJwRGdCECAHTERtmJWigIosRU",
+      "plus_code": {
+        "compound_code": "3J95+6G ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623J95+6G"
+      },
+      "rating": 4.7,
+      "reference": "ChIJwRGdCECAHTERtmJWigIosRU",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 29
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 M.18, ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12121",
+      "geometry": {
+        "location": {
+          "lat": 14.0725142,
+          "lng": 100.6114662
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07367912989272,
+            "lng": 100.6128190298927
+          },
+          "southwest": {
+            "lat": 14.07097947010728,
+            "lng": 100.6101193701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "วิทยาลัยโลกคดีศึกษา มหาวิทยาลัยธรรมศาสตร์",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103104923858801335664\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcL6V92PX2Cq6HsfDqW6TArQc4SEBcNE3mV9FoY-oJOBzOa3a9bt2-4s9NHHxwk3hY4afSzQjBWPsqMXuiNYOTMeH0BAMJtpbaSdpBGaR0KHjioLJpdWv4_o7FBIAbQ2YBDa58wXB9dWNQnFDMZfpBg4iSAXL0sEuZFfhf5-IuHTcN6u",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJd04uWPF_4jARHcD1D5NzKm4",
+      "plus_code": {
+        "compound_code": "3JF6+2H ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF6+2H"
+      },
+      "rating": 5,
+      "reference": "ChIJd04uWPF_4jARHcD1D5NzKm4",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 6
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2 ถ. พระจันทร์ แขวงพระบรมมหาราชวัง เขตพระนคร กรุงเทพมหานคร 10200",
+      "geometry": {
+        "location": {
+          "lat": 13.7565465,
+          "lng": 100.4893575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.75791922989272,
+            "lng": 100.4907272798927
+          },
+          "southwest": {
+            "lat": 13.75521957010728,
+            "lng": 100.4880276201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะศิลปศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116598447592234042703\">thitinun Boonon</a>"
+          ],
+          "photo_reference": "Aaw_FcKkFzR9BFBWr2XbSkNZaai0QgnZncrUtQfzg66VkXe-kBVWUJ34pFSH1YnfgOcYJ5a9nlhXOh2mSIebZ3MJ2OPoIHIEGs_aZ_N2vC1OauruSEtnjiaNzVApMnYIv6GDKVWHomUCRHnR5k6-eL0FbjG5UsIMgK9jkr1M9jp5MhEri-0W",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJP2hQigGZ4jARRmR7jVHgjpU",
+      "plus_code": {
+        "compound_code": "QF4Q+MQ กรุงเทพมหานคร",
+        "global_code": "7P52QF4Q+MQ"
+      },
+      "rating": 5,
+      "reference": "ChIJP2hQigGZ4jARRmR7jVHgjpU",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 4
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "หมุ่ 18 คณะศิลปศาสตร์และสถาบันภาษา 99 ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0691346,
+          "lng": 100.6021252
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07043282989272,
+            "lng": 100.6033680798927
+          },
+          "southwest": {
+            "lat": 14.06773317010728,
+            "lng": 100.6006684201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะศิลปศาสตร์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112111965687277054102\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcLG9EEckPgExf3kFFsKOfF48rL6LsmE6UECDQncFMHZ8EIK6sCIHE_np5OEb-34mGJRulS6-PDHZyifahFZmfUrkXfya3-0fC5Yp5jZG--MJbFWCHvVVhnJ8O4-sMQjCDB8oqRcSGtqvJctfgDrDg1angO_qAPpcn235WUHvZyZ4MXe",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJ4VXlVul_4jARRZRAks_zwZY",
+      "plus_code": {
+        "compound_code": "3J92+MV ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623J92+MV"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ4VXlVul_4jARRZRAks_zwZY",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 10
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 ม.18 ชั้น 2 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0681127,
+          "lng": 100.6031186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.06938767989272,
+            "lng": 100.6044645298927
+          },
+          "southwest": {
+            "lat": 14.06668802010728,
+            "lng": 100.6017648701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะนิติศาสตร์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2706,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112111965687277054102\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcJyHutbzhN_mMSmp9yKQRew29IZnK5qwY4-D1Tt7qnMB76cgHQZaqlmFxAJM7exB1Vdx4nSjfehKnYayaHAoOeFKQ14NT7eRSULNrpqOJVVL59iSk2kVrR-JmxkfN4AkJRky7ffeyQFDNYm1sQBGg01EPTmuNVwPX9AK0FADiSlVJdG",
+          "width": 4036
+        }
+      ],
+      "place_id": "ChIJQ43osu5_4jARicYTNAHamdw",
+      "plus_code": {
+        "compound_code": "3J93+66 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623J93+66"
+      },
+      "rating": 4.4,
+      "reference": "ChIJQ43osu5_4jARicYTNAHamdw",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 49
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0726847,
+          "lng": 100.6125517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07385507989272,
+            "lng": 100.6139311798927
+          },
+          "southwest": {
+            "lat": 14.07115542010728,
+            "lng": 100.6112315201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะสาธารณสุขศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1632,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118038908786904071934\">ชมภูนุช โสมะวงค์</a>"
+          ],
+          "photo_reference": "Aaw_FcLkx2vbiur6G2faAYwwsuTg-ITlvGCtll-UrfdSy2W7eNkirUf1kpsj1LBH4C3dwxPtsWEbjsDLL9TiVbQQtYkI5Stx7mJJ_8rTk16A745c-q-zCPlxdLHwPxLcWUZFBr38pg3xgeCnTn7qr0EUjT-OTRG89KNilqL9wXLBWmK6L1dE",
+          "width": 2464
+        }
+      ],
+      "place_id": "ChIJHRsxE_N_4jARTyy07s9JQDE",
+      "plus_code": {
+        "compound_code": "3JF7+32 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF7+32"
+      },
+      "rating": 5,
+      "reference": "ChIJHRsxE_N_4jARTyy07s9JQDE",
+      "types": ["school", "university", "point_of_interest", "establishment"],
+      "user_ratings_total": 1
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.06803,
+          "lng": 100.598913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.06891497989272,
+            "lng": 100.6006000298927
+          },
+          "southwest": {
+            "lat": 14.06621532010728,
+            "lng": 100.5979003701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+      "name": "สนามกีฬามหาวิทยาลัยธรรมศาสตร์",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106005206428843858045\">Pumin Manoworn</a>"
+          ],
+          "photo_reference": "Aaw_FcIzL1wiWbouH1xk3IO52AiQKkGtt7nOAn-xxb03BDY7g2-kaGi_bUIe0X9UmE6ZTLt5AyEbf90jt4VNfmeVYgSHavv6c7LQYY1Fb8hLJ0OhC0hKxAwN_qufnq3Di_6CG_jbV5Rqnmuo1MTnl6aKt_NHGBwqUoyO1CCnu6AZzPq8JLsb",
+          "width": 5333
+        }
+      ],
+      "place_id": "ChIJZ4p-lul_4jAR0WQ0ts-fGN0",
+      "plus_code": {
+        "compound_code": "3H9X+6H ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623H9X+6H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJZ4p-lul_4jAR0WQ0ts-fGN0",
+      "types": ["stadium", "point_of_interest", "establishment"],
+      "user_ratings_total": 3377
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "99 ตำบล คลองหนึ่ง อำเภอคลองหลวง 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0679062,
+          "lng": 100.6039124
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.06925302989272,
+            "lng": 100.6052595798927
+          },
+          "southwest": {
+            "lat": 14.06655337010728,
+            "lng": 100.6025599201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะเศรษฐศาสตร์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103219978673296017125\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcKlnCR6iICR7GEYqlXIDKIkvDNjEoptpw2-c8fpbk8LJO62V1ECIPxoIY7RR7ivIvqUlQbH47FxkyNkZ_SU243PInUPmUerC92EvWscysAhDQuMGr5WvW__GVS2wiJ1BHkf0Ff6CVyLqRqaJX0GsLZDwpQH6cPzwYl5ogMFHSn3pJe2",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJBxd0u-5_4jARgKbX-HTkk_g",
+      "plus_code": {
+        "compound_code": "3J93+5H ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623J93+5H"
+      },
+      "rating": 4.6,
+      "reference": "ChIJBxd0u-5_4jARgKbX-HTkk_g",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 10
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "95 หมู่ที่ 8 ทางคู่ขนาน ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0736411,
+          "lng": 100.6152918
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.0762942,
+            "lng": 100.6211826
+          },
+          "southwest": {
+            "lat": 14.0707506,
+            "lng": 100.606401
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110503794348131756345\">warawudh chaiyot</a>"
+          ],
+          "photo_reference": "Aaw_FcI0T1grOfqMhMh9YMVQ4d130xXusquLhpfOI7QmHJbN48BeqSiD61ctEYAeYrI55E8r9F_9uG7BkkC_vYeg7t8CML2wlNkyxPrI7eJ9Q0csQrTyk_2GvouWIMnGK3WQglHdGYfPWrW7Qp5UpHK7BobZ4KvJq2MDLfPkdPijR-ZpqCFl",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJHVhAUot_4jARYCpP-vQr_Ow",
+      "plus_code": {
+        "compound_code": "3JF8+F4 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF8+F4"
+      },
+      "rating": 3.7,
+      "reference": "ChIJHVhAUot_4jARYCpP-vQr_Ow",
+      "types": ["hospital", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 438
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3J92+CRW ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0686186,
+          "lng": 100.6020718
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.06990282989272,
+            "lng": 100.6034724798927
+          },
+          "southwest": {
+            "lat": 14.06720317010728,
+            "lng": 100.6007728201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "สถาบันภาษา มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต",
+      "photos": [
+        {
+          "height": 972,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112997541825816275130\">Sat A.K</a>"
+          ],
+          "photo_reference": "Aaw_FcLiGL8KXelFMzqnd5UoJ1on6PuXraG8fryb0zKQPiiz_9jr867BGxB-fr8ky6U-w5OrFo3wQ8MmBEfh5NDi7UjB2Zgpb8NZ7zCyh3kAm-7O-NWsm14sRl9lP86c1GVOSEJoXQxP6btFYMHuSuiME_AJbk_hpS70G9AmegNoobweKDp2",
+          "width": 1296
+        }
+      ],
+      "place_id": "ChIJoQq15Ot_4jARhWe6vKpCXew",
+      "rating": 4.7,
+      "reference": "ChIJoQq15Ot_4jARhWe6vKpCXew",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 9
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "95 หมู่ 8 ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 10120",
+      "geometry": {
+        "location": {
+          "lat": 14.0726962,
+          "lng": 100.6137725
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07392947989272,
+            "lng": 100.6151346298927
+          },
+          "southwest": {
+            "lat": 14.07122982010728,
+            "lng": 100.6124349701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "คณะแพทยศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112111965687277054102\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcIuL-sCZiTuoDvWcg8TediRbQTHJVaxBEJ_jSQVRHEo8iIwCssr-kb1jdIN-892wH-3jVAbNxU55SOJ7ayfs8xZCqqARux3ovVGis2KJjWKKRLT_ohzHzJ8-GWCuX7bDR2MvPjMxvfRcninyn6CE1f79vNMkTsIfM-aB_oFjMmbT9oX",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJaxfgYPN_4jAReldoclwp80Y",
+      "plus_code": {
+        "compound_code": "3JF7+3G ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF7+3G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJaxfgYPN_4jAReldoclwp80Y",
+      "types": ["university", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 54
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0796178,
+          "lng": 100.5884201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.08093882989272,
+            "lng": 100.5897071798927
+          },
+          "southwest": {
+            "lat": 14.07823917010728,
+            "lng": 100.5870075201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "มหาวิทยาลัยธรรมศาสตร์ (ศูนย์รังสิต)",
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114998833539742063818\">Mitsunori Yokoyama</a>"
+          ],
+          "photo_reference": "Aaw_FcKjoWBXpLsRNQmivHyCcBIYTcKFadIZgNxo4bc8sh_hVQMzYpYuVqgg4BB3W9_EZgGLAuy_IM57jpnyAR4MjQRuV7ZX1VnMXw3kqb56ahy4Z76CG5sZOTAx0_VJOvCatSRc7hOk9NHV9uGkfgxE_qfSYPUqOAcw_8G53Pjy71WudlO2",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJpcoHmrl_4jARIOjqnZsYSuw",
+      "plus_code": {
+        "compound_code": "3HHQ+R9 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623HHQ+R9"
+      },
+      "rating": 3.6,
+      "reference": "ChIJpcoHmrl_4jARIOjqnZsYSuw",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "อาคารศูนย์ญี่ปุ่นศึกษา ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0748428,
+          "lng": 100.600343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07597097989272,
+            "lng": 100.6017691298927
+          },
+          "southwest": {
+            "lat": 14.07327132010728,
+            "lng": 100.5990694701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "สถาบันเอเชียตะวันออกศึกษา มหาวิทยาลัยธรรมศาสตร์",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118289736413184934965\">A Google User</a>"
+          ],
+          "photo_reference": "Aaw_FcJqRK4aJ_UNGIdeiKn2J8nw17x6Iv-us91dGFqfJR57FC9tYhl7Jfrq9rO362GPiTTFX8zs4yHZpfzZupB2iIuyOKXbvFfI1pSByzH6gDDFBFrLqIWmnpz4V32CUQeKhtKp7v1x8k00svvaLPDM-C1YDVDLp2F1ToUjV2KyNe1i2WAl",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJuzuMLOt_4jARMbZeMBktrYg",
+      "plus_code": {
+        "compound_code": "3JF2+W4 ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี",
+        "global_code": "7P623JF2+W4"
+      },
+      "rating": 4.3,
+      "reference": "ChIJuzuMLOt_4jARMbZeMBktrYg",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 24
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3JF6+PRX ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120",
+      "geometry": {
+        "location": {
+          "lat": 14.0743682,
+          "lng": 100.612114
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 14.07571182989272,
+            "lng": 100.6134638798927
+          },
+          "southwest": {
+            "lat": 14.07301217010727,
+            "lng": 100.6107642201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Department of Forensic Medicine, Faculty of Medicine, Thammasat University",
+      "place_id": "ChIJkabR2Ox_4jARWhCnPjzwtkE",
+      "rating": 0,
+      "reference": "ChIJkabR2Ox_4jARWhCnPjzwtkE",
+      "types": ["university", "point_of_interest", "establishment"],
+      "user_ratings_total": 0
+    }
+  ],
+  "status": "OK"
+}

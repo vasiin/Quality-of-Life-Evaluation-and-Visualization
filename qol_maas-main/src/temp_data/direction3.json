@@ -1,0 +1,2971 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJj9fMB7Se4jARBYzWwOX2VBo",
+      "types": ["street_address"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJP9fosex_4jARdKapl3ygFOE",
+      "types": ["establishment", "point_of_interest", "university"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 14.081656,
+          "lng": 100.6050634
+        },
+        "southwest": {
+          "lat": 13.7627895,
+          "lng": 100.4427341
+        }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "62.6 km",
+            "value": 62590
+          },
+          "duration": {
+            "text": "1 hour 7 mins",
+            "value": 4010
+          },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": {
+            "lat": 14.0737298,
+            "lng": 100.6028922
+          },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": {
+            "lat": 13.7627895,
+            "lng": 100.5345055
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 293
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 39
+              },
+              "end_location": {
+                "lat": 13.7639297,
+                "lng": 100.5320553
+              },
+              "html_instructions": "Head <b>northwest</b> on <b>ถนน โยธี</b>",
+              "polyline": {
+                "points": "m`_sAusrdRCHKV[~@CF{@~BYv@?BQd@IRCHM^O^_@~@"
+              },
+              "start_location": {
+                "lat": 13.7627895,
+                "lng": 100.5345055
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 121
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 19
+              },
+              "end_location": {
+                "lat": 13.7648894,
+                "lng": 100.5325886
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>ซอย เสนารักษ์</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "qg_sAkdrdRwDcBGE"
+              },
+              "start_location": {
+                "lat": 13.7639297,
+                "lng": 100.5320553
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 260
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 44
+              },
+              "end_location": {
+                "lat": 13.7669753,
+                "lng": 100.5336785
+              },
+              "html_instructions": "Continue onto <b>ซอย ราชวิถี 15</b>",
+              "polyline": {
+                "points": "qm_sAugrdRoB}@WKeBs@_Aa@k@WgAa@"
+              },
+              "start_location": {
+                "lat": 13.7648894,
+                "lng": 100.5325886
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 167
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": 13.7676038,
+                "lng": 100.5322757
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถ. ราชวิถี</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "sz_sAonrdRKZGTQj@Oj@GPGRELKTA@Yn@GP"
+              },
+              "start_location": {
+                "lat": 13.7669753,
+                "lng": 100.5336785
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.2 km",
+                "value": 3171
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 482
+              },
+              "end_location": {
+                "lat": 13.7796156,
+                "lng": 100.5056542
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>ถ. ราชวิถี</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "o~_sAwerdR[z@MZGPM\\Of@KXSj@kBjFWr@Sh@KXSl@Sl@Qj@A@?@CFA@ABITCHK\\A@qAxDKX_ArCCLCJGRENKZSVc@dAs@pB_ArCaApCwA`Eg@nA_AjCa@tASj@A@g@vAa@jAeA~CgEpLWt@{@fCO`@Sl@ITk@`BoElMM\\aAtCWr@Yp@Qj@A@Sl@Sn@CDQf@Ur@CJGPGLSl@Ul@KVAFO`@ELCJITITKVKVELk@dB?@MZi@`BK\\Un@Yv@EHIVIPOd@CHUp@M\\"
+              },
+              "start_location": {
+                "lat": 13.7676038,
+                "lng": 100.5322757
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 926
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 13.7830508,
+                "lng": 100.4978584
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>ถ. ราชวิถี</b>/<wbr/><b>สะพานกรุงธน</b><div style=\"font-size:0.9em\">Continue to follow ถ. ราชวิถี</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "sibsAi_mdREJCJiBdFCJEJGPENQb@]|@s@pBcCdHM`@Yx@wAhECTKp@iAhDg@tAWp@GNIRM^"
+              },
+              "start_location": {
+                "lat": 13.7796156,
+                "lng": 100.5056542
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.0 km",
+                "value": 2956
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 179
+              },
+              "end_location": {
+                "lat": 13.7885924,
+                "lng": 100.4719716
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>Route 341</b><div style=\"font-size:0.9em\">Pass by ร้านอุ้ยฮงเส็งการไฟฟ้า OHS Lighting (on the left in 2.2 km)</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "a_csAsnkdREHa@jAO`@Yv@EJmBlF?@A?CJGL{@hCEP?@GPCHCJADCHA@CHADCH?BK\\M`@I\\ABADKb@CJGVCLCJ?@UdAq@xCKb@GZAFKd@AFYtACJ_@xAABGR[tAGTETK`@sAlG]~AGVGZABK^AHMd@S`AEJSz@o@pCOl@Mj@?@Ol@S|@On@Ml@A?ETCJMh@Qr@ADADCLIZ{@nDOh@_@jBEN?BEJAJERABI`@CLMh@IZADQr@ENYnAK`@u@pCS~@Qr@O|@Ib@E^CTCTAR?F?HAT?D@h@HrADl@Hb@\\fBXtATbAZzA@@DPDRNp@Lr@Jd@F^b@`C`@|BT`A"
+              },
+              "start_location": {
+                "lat": 13.7830508,
+                "lng": 100.4978584
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 765
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 49
+              },
+              "end_location": {
+                "lat": 13.7866621,
+                "lng": 100.465179
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Route 341</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "uadsAylfdRZdBl@zCJd@jAjFXnABRJb@F^DRFVHd@Jd@V~A@BXbB@@Jj@Hj@VzARjAJh@@D?F@B@R"
+              },
+              "start_location": {
+                "lat": 13.7885924,
+                "lng": 100.4719716
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 181
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 13.7862094,
+                "lng": 100.4635736
+              },
+              "html_instructions": "Merge onto <b>ถ. บรมราชชนนี</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "sucsAkbedR@F@D@LBJ^lBn@jD"
+              },
+              "start_location": {
+                "lat": 13.7866621,
+                "lng": 100.465179
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 847
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 13.7839187,
+                "lng": 100.4561103
+              },
+              "html_instructions": "Continue straight to stay on <b>ถ. บรมราชชนนี</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "yrcsAixddRv@~CVdAPr@H^^nBxCvNR|@Lh@TfALd@?@ZvAPr@f@xBFrA"
+              },
+              "start_location": {
+                "lat": 13.7862094,
+                "lng": 100.4635736
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "44 m",
+                "value": 44
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 13.7837256,
+                "lng": 100.4557557
+              },
+              "html_instructions": "Take the exit toward <b>Route 338</b>/<wbr/><b>Ratchaphruk Rd.</b>",
+              "maneuver": "ramp-left",
+              "polyline": {
+                "points": "odcsAuicdRd@dA"
+              },
+              "start_location": {
+                "lat": 13.7839187,
+                "lng": 100.4561103
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 203
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 16
+              },
+              "end_location": {
+                "lat": 13.783189,
+                "lng": 100.4539621
+              },
+              "html_instructions": "Merge onto <b>ทางคู่ขนาน ถนนบรมราชชนนี</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "iccsAogcdRDR@FFV@Hb@lBH^@FJj@H^H^BP?@DR"
+              },
+              "start_location": {
+                "lat": 13.7837256,
+                "lng": 100.4557557
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 896
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 61
+              },
+              "end_location": {
+                "lat": 13.7808065,
+                "lng": 100.446064
+              },
+              "html_instructions": "Continue straight to stay on <b>ทางคู่ขนาน ถนนบรมราชชนนี</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "}_csAg|bdR@FRz@?@TjAJ`@r@hDBL@FH`@BZDPNv@Jh@^pBx@bE?@DT@DNv@@DBL?B@@DR@D@F^hBj@jC@@RdAH`@Np@FTFLDDHBHz@F\\Fb@"
+              },
+              "start_location": {
+                "lat": 13.783189,
+                "lng": 100.4539621
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 265
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 13.7800448,
+                "lng": 100.4437582
+              },
+              "html_instructions": "Turn <b>left</b> to stay on <b>ทางคู่ขนาน ถนนบรมราชชนนี</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "aqbsA{jadRD@B@BBBB@DBLDR\\dBZxABJ@@\\fBHh@HZHZ"
+              },
+              "start_location": {
+                "lat": 13.7808065,
+                "lng": 100.446064
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 13.7791179,
+                "lng": 100.4432125
+              },
+              "html_instructions": "Keep <b>left</b> to continue on <b>ซอย บรมราชชนนี 61 - ถนน ราชพฤกษ์</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "glbsAo|`dRVr@FHHLJJRHNFH@R@R?\\AD?B?B@"
+              },
+              "start_location": {
+                "lat": 13.7800448,
+                "lng": 100.4437582
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 240
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 13.7769693,
+                "lng": 100.4434101
+              },
+              "html_instructions": "Continue straight onto <b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "ofbsAay`dRnAKBAxAKxAGz@Er@?b@AP@"
+              },
+              "start_location": {
+                "lat": 13.7791179,
+                "lng": 100.4432125
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 109
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 13.7759925,
+                "lng": 100.4435348
+              },
+              "html_instructions": "Merge onto <b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "ayasAiz`dR\\E\\CbAGt@EL?"
+              },
+              "start_location": {
+                "lat": 13.7769693,
+                "lng": 100.4434101
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 565
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 13.7759582,
+                "lng": 100.4432752
+              },
+              "html_instructions": "Keep <b>left</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "}rasAa{`dRNEXEF?n@KF?hBKpBKrBQF?F@@@D@FDBF@D@??@@F?HAF?@ADEFEDGBE@mBHwAHuBNeB?Q?KA"
+              },
+              "start_location": {
+                "lat": 13.7759925,
+                "lng": 100.4435348
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 113
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 13.7769636,
+                "lng": 100.4431335
+              },
+              "html_instructions": "Merge onto <b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "wrasAoy`dR{@DI@S@e@D_@BSDSB"
+              },
+              "start_location": {
+                "lat": 13.7759582,
+                "lng": 100.4432752
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 740
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": 13.7835373,
+                "lng": 100.4431736
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "_yasAqx`dRe@CM?W@[BQ@O@O?[Bk@DaBJg@DcAHq@D_ET]Be@@U?_@?cA@c@AYA[CYCOAc@Ck@Gc@Ey@CSGe@I[IQGA?ICIAIEIC"
+              },
+              "start_location": {
+                "lat": 13.7769636,
+                "lng": 100.4431335
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "11.2 km",
+                "value": 11218
+              },
+              "duration": {
+                "text": "9 mins",
+                "value": 551
+              },
+              "end_location": {
+                "lat": 13.8819828,
+                "lng": 100.4505756
+              },
+              "html_instructions": "Continue straight to stay on <b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "cbcsAyx`dRg@Qu@Su@Wi@Qc@QAA}BkAMGKGYUIEA?GGIGKEGEGEICICI?G?IGIEUQKGOISM}BqAyD_CGCmEsCCASMeAo@gBcAIG_Ai@c@W]SKG_@SKGm@Yq@[e@WgAg@aBq@e@Oy@]e@MMEQG]Ia@MOE_ASEAo@MsB_@UESEeBYe@G_@GiAKK?yAK}@Eo@?EAM?QAI?A?K?I?mAC}@Ai@@i@?Q@K?K?yFHG?cBFeBDM@O?M@qBBgBDE@{@@aEF_CBy@@y@@qFNO@eCBmCFuABw@@{ADu@BM?W@cILI?{@BM?O?kBFmBDmBDW@uABeFJeFHyEL_@@c@@e@@_ENW@K@A?G?]?m@Bi@Di@@aCJcFTO@I?yFZsAFE?{APE?{AHWBmAFI@aAJE?}@FW@YBkDT_@Bi@D}CTI@m@DE@_F\\I@w@DM@y@FM@c@BI@Y@E@I@yDVo@Dc@BqDTe@BkAJ]Bs@DwIh@c@BG?C?cCF}D?kAE_DO_BKoAQSCsBWyASWCy@MKAqEu@sB]aBSyBSoCOyCMaACiBAeDAoA?mB?iDCqAE}CMgAEIAiAIwCYyAU_@E_BSe@IqASa@IEA]Gu@OkBa@wAY}Aa@y@QWGUGs@OWIcAWqA[o@O[IGAUEOCcB[g@K{@OQCA?EAWEu@MmAOIAa@Ec@EgAMWEcAOq@IoAQIAcAIMA{BQC?e@CeAIgBIiAEyAEW?}@CQ?m@?I?k@Cc@?KAi@?yBAu@@}B@{BBiABqAD_BD_AB[@kADE?q@DeHV_K^m@D_AD_@BgEPoBHc@BW@w@BS@k@BK?u@BQ@C?YB_FNcCFuER{CL}CFi@@"
+              },
+              "start_location": {
+                "lat": 13.7835373,
+                "lng": 100.4431736
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1108
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 52
+              },
+              "end_location": {
+                "lat": 13.8919345,
+                "lng": 100.4501004
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>ถนน ราชพฤกษ์</b>/<wbr/><b>ถ. ราชพฤกษ์</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "kivsAcgbdReA@wCF[@a@?]@A?kBBC?w@Bw@@s@@{@BS@q@@k@@qILY@E@I?cABg@@k@?qABgBDq@@}ABc@@S?kBD_CDE?_AD"
+              },
+              "start_location": {
+                "lat": 13.8819828,
+                "lng": 100.4505756
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.1 km",
+                "value": 3105
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 153
+              },
+              "end_location": {
+                "lat": 13.9196604,
+                "lng": 100.451798
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>ถนน ราชพฤกษ์</b>/<wbr/><b>ถ. ราชพฤกษ์</b><div style=\"font-size:0.9em\">Continue to follow ถนน ราชพฤกษ์</div>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "qgxsAcdbdRu@@_ABmABaCF]?}GJa@?Y@A?cIP[@C?A?U@Q@I?o@Be@?A?g@@Y?C@Y?qABqABaBBqABo@@oCDk@@sBBkAD[@_CFyBBoB@c@?oB@W?_A?A?u@Aq@CkCG[?c@Ac@CSAYAg@Cc@COAs@Ea@Ca@EiFc@_@CAAOAOCmCYg@GQCkD]KAeBS[C{C_@C?gAMiAMSCWCSCSCwBWI?mBUYCe@GIAGA{AKiC[MCaAKA?SA]E_@ECAC?m@Gm@GUCUCcAKaAKIAKAMAMA"
+              },
+              "start_location": {
+                "lat": 13.8919345,
+                "lng": 100.4501004
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.8 km",
+                "value": 2805
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 134
+              },
+              "end_location": {
+                "lat": 13.9436178,
+                "lng": 100.4593252
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>ถนน ราชพฤกษ์</b>, follow signs for <b>Highway No. 345</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "{t}sAwnbdRaAMcAMeAMcAMQEQCoGs@oGq@g@Ee@EmFi@gIcAy@G{@IoD]_JcAsAUyB[u@M_AOaAMaB_@eAUqBk@c@K[GYIq@Su@S[K[KsAe@iAa@YKi@SGCECq@Ws@Ws@Wu@WMGOIk@Uo@WKCc@Sc@QyB{@kFuBKCUKi@QGCGCUKMGQGOGm@WmAi@cAc@KEOIgC}@kBe@eASSE"
+              },
+              "start_location": {
+                "lat": 13.9196604,
+                "lng": 100.451798
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "9.5 km",
+                "value": 9459
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 469
+              },
+              "end_location": {
+                "lat": 14.017151,
+                "lng": 100.4949117
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>ถนน ราชพฤกษ์</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "sjbtAy}cdR[Eq@OyC[cBIUAs@AqA?qBBQBC?gADcBN}Fh@K@UBC?E?IBsBRg@FM@KBkBRmBRmFj@_@D[B_AJqAL_AJ[BC?]BmAFwAHoABi@@A?w@?_AAwACkBEm@Cg@COAI@q@EuEk@yASA?uCi@w@OcAWyAa@MEMEME]KCAA?{@YUKMEg@Q{EeB[K_@M?AICUIwAe@oAc@GCICmAc@_@Mw@YwCaAw@[kAa@wAe@{@Y]M}@WUI_Bc@aCk@aFmA_B_@EAEAmGwA{OoDoAY{D_AeFkAICa@K_@MmA[yBw@aA]i@QWMICIEaAe@EAy@e@MGMIaAi@KGsAy@a@Yk@c@CAyCaCKKeImHk@g@}EcEuAkAMK{@u@wBkBm@c@s@e@yA}@k@]o@[y@]qIgDgDwAaFqBCA{DaBCA[M_@QCA[Ma@QMGKECACCKEIEMEKEWMYKc@S_Aa@e@SUK_DqAEA_CaAKEKEiAe@a@Q_Bq@KEKEQIQG_Bs@_Bq@_Aa@WKUKUKMGKEWKUK}@WA?{@WSKSKq@[q@[QIIC[Ou@[c@SsCoAMGMEqCmA_DsAk@UiBy@iBw@mAi@wAs@{A{@eEeCgDuBoA{@i@[a@[q@k@}@q@u@m@eB{Ai@g@UUQQCCk@g@KMs@s@GIIIq@u@g@i@_@g@cAuAgCkDmEiHqBeEWi@KU{@oBs@iBc@}@CE[y@s@aBq@aB"
+              },
+              "start_location": {
+                "lat": 13.9436178,
+                "lng": 100.4593252
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.6 km",
+                "value": 2624
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 14.0281948,
+                "lng": 100.5164063
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>ถนน ราชพฤกษ์</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "evptAe|jdRaJoTMYCE_CaGu@gBi@kAs@gBIOa@aAcCgGQ_@iFkMGOKWyAoDISa@aAm@yAiAkCM[AEQ_@a@aAO_@Oa@MUEMa@_Aa@aAuBeFIQISACa@gAEGsBcFmAuCeAiCiAsCUg@_A{BCEQ_@]u@M_@"
+              },
+              "start_location": {
+                "lat": 14.017151,
+                "lng": 100.4949117
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 584
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 31
+              },
+              "end_location": {
+                "lat": 14.0298868,
+                "lng": 100.5215087
+              },
+              "html_instructions": "Continue onto <b>Route 346</b>",
+              "polyline": {
+                "points": "e{rtAqbodRe@iAo@{AM[]gAESYeAYiAKa@Mg@YyAWwAUmAAGY{BGk@Ii@Gi@"
+              },
+              "start_location": {
+                "lat": 14.0281948,
+                "lng": 100.5164063
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.6 km",
+                "value": 3649
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 240
+              },
+              "end_location": {
+                "lat": 14.0156587,
+                "lng": 100.5493191
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Route 346</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "yestAmbpdREg@I_AGaBImB?SE_CAcC@yA?E@gA?K?E?u@?C@}@@qB?kE?O?c@@c@BsIE]B{A?SBmD?Q?w@@]?}@?kA?i@?I@W@q@B_@B[Fm@Hi@FWJc@Li@Lk@DOH[BGNe@`@iALQLS^m@\\k@V[\\c@X[^]LKNOHI^_@v@w@\\[NO~@{@BCd@e@HIXYXYVYlAkA?Ar@q@XY@?XYr@s@f@g@~@}@DEbC_CFENQx@w@fAkATWHKNOHIT[VYHMn@o@@ATW\\]zC_DfAcARS|@{@\\]rCqCxE{EhAiApGuGlCqCrAuAXS"
+              },
+              "start_location": {
+                "lat": 14.0298868,
+                "lng": 100.5215087
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.5 km",
+                "value": 1510
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 93
+              },
+              "end_location": {
+                "lat": 14.0270809,
+                "lng": 100.5558637
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ทางคู่ขนาน</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "{lptAgpudRVk@FOBQ?Q?GEMCIKMGGWSqAg@kBu@OGm@Uu@]qDyAqBw@YKKGi@U_@Oe@Q}GuCYM_AY_A_@QIo@YuFyBaM}EaBq@mBw@SIg@So@W"
+              },
+              "start_location": {
+                "lat": 14.0156587,
+                "lng": 100.5493191
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "6.3 km",
+                "value": 6276
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 274
+              },
+              "end_location": {
+                "lat": 14.0800628,
+                "lng": 100.5707322
+              },
+              "html_instructions": "Take the ramp on the <b>right</b> onto <b>Route 347</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "gtrtAcyvdRMOECeAk@IGQSs@Yq@YePsGQI}@]qBy@KEGCGCCAkCeAwB{@_@OgFuBo@WICa@Oy@]q@YyF{BmBu@iBw@WKs@Y_A_@{EmBo@W_E_BeDsAOGk_@iOuPwGuHyCaFqB}B}@CACAa@Q{F}BaDqAoAg@q@W_@Ok@SiCw@{BYEA]Ac@Cc@AuCC]?c@@oDBcA?iGFiC@}ABeCB{LBM?uRPc@@kB@eNLK?I?wDDo_@^}B?IAkCF"
+              },
+              "start_location": {
+                "lat": 14.0270809,
+                "lng": 100.5558637
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 337
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 55
+              },
+              "end_location": {
+                "lat": 14.0804865,
+                "lng": 100.5709177
+              },
+              "html_instructions": "Slight <b>left</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "k_}tAavydRw@TwBJS@_@AOCIEIIKGEEMKIIIKACAC?C?C@C@ABCBAFAFAlBB\\Fp@DD?B@DF"
+              },
+              "start_location": {
+                "lat": 14.0800628,
+                "lng": 100.5707322
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 219
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 14.0785155,
+                "lng": 100.5709868
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Route 347</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ab}tAgwydRnAAbAArCC`BE"
+              },
+              "start_location": {
+                "lat": 14.0804865,
+                "lng": 100.5709177
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.2 km",
+                "value": 1250
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 86
+              },
+              "end_location": {
+                "lat": 14.0672948,
+                "lng": 100.5714241
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ทางคู่ขนาน</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "wu|tAuwydR^MdDObAAlACzACrBC`CCdHET?xAAxAAjBCB?`BAtLKfBAvFGbA?"
+              },
+              "start_location": {
+                "lat": 14.0785155,
+                "lng": 100.5709868
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 160
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 14.0662892,
+                "lng": 100.5721524
+              },
+              "html_instructions": "Keep <b>left</b> to continue toward <b>Route 3214</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "qoztAkzydRrAKZCRCJAFCFEHEFGDIBMDYDq@"
+              },
+              "start_location": {
+                "lat": 14.0672948,
+                "lng": 100.5714241
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.8 km",
+                "value": 2777
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 156
+              },
+              "end_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "html_instructions": "Merge onto <b>Route 3214</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "iiztA}~ydRJuFHsF?qBFyC@I?_A@sA@}@@aD?{@?e@@eB?U@}@@sA?_@@u@B}EBoE@O?{@@mA@gABiD?G?Y@uA?uAFmI?e@BwD@u@?q@@W?A@mA?iA@iAB_C?_@?E?o@@O@y@@eA?Q?O@]?mB@iA?}A@{A@qA@uCBmB@cB@yAAi@@SH_F"
+              },
+              "start_location": {
+                "lat": 14.0662892,
+                "lng": 100.5721524
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 775
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ถนน คลองหลวง</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "meztAy__eRGUAU?m@?[?_A?I?gADmF?a@?]J}J@i@?KFeJ?Y?Y@U"
+              },
+              "start_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 212
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถนน ประชาสันต์</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ydztAsl`eR]?sA?kB?_D?"
+              },
+              "start_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 403
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 58
+              },
+              "end_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Sanya Dharmasakti Road</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wpztAsl`eR?P?Z?xF@^?H?hC?p@?b@Ad@?R?N?F?FADADABABCBC@C@E@E?G?I@K?O?"
+              },
+              "start_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 767
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 130
+              },
+              "end_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "html_instructions": "Continue onto <b>ถ. ตลาดวิชา</b>",
+              "polyline": {
+                "points": "esztAgw_eRI?g@A_EAo@?C?oB?cA@O?]@mA?oAAc@?{B?uC@a@?gC?I?yB?yA?"
+              },
+              "start_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 209
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "i~{tAgw_eR?@?@?@A??@?@A@?@A??@A??@A??@A?A?A?A??@AA?@A??AA?A?A??AA?AAA??AAA?A?AA??A?A?A?A?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB?u@?I?q@"
+              },
+              "start_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 110
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "__|tA_a`eRnA?NAfA?\\@"
+              },
+              "start_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "39 m",
+                "value": 39
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 14.0737298,
+                "lng": 100.6028922
+              },
+              "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yx{tA_a`eRHHBBDD@BBD@D@D@F?D?D"
+              },
+              "start_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "m`_sAusrdRwCjIk@|A_@~@wDcBwBcAiFyBgAa@KZY`Ae@~Ao@xA{E`NsBbGuBfGsAfEMb@_@r@yE|M_CpGaB`F_BpEaJnWqK|ZaC~GcErLyHvT_GrPg@zA{A~EKp@iAhD_AfCe@lAqApD}DfLuAbF_EtQwD|PsAxFcEpQeEtQaBrG_AtEQlCJ|BNpAhB|IbBtI`C`MtBtJnAzGjBrKJ`Ab@xBfBjIrAhGlGzYf@xBFrAj@xAn@vCt@zDpBrJhChNdD`PNb@NHPxALd@JHJf@zBvK^|@TXb@P\\Bz@ApDWlFOpCOvGi@tF[RPDNCXYReERuBNeB?]AeAFmBP_B@mAFePdA_DBsBKcCSmAKaASg@MqBo@eC}@qDqBcAk@e@K{@i@_SwLkHeEmEuBgFmBeFoAcGeA{C[yFUsGAcOZwSZ}h@bA{a@|@wIX_DJ_Kb@wRjAu\\`CqXhBgKl@aIFkFUoD]gC[wDg@eIsA{Eg@iH]kDEmOEaI[aFc@yB[yF{@eE{@gGuAkIqBgGgAkIeAeEk@wE_@wEWyFOiIGyJJmGPw\\rAwNj@{XbAy[j@md@v@gUb@yLVwWb@{IR}JFmKOcG[cOwAa]uDqO_BcGm@qQwBkQgBmRsBsLyAoDi@iHsAkJiCuI_DyVuJqGoCwCgAqDy@o@KkEk@yBKeCAoELkOvAiPfByJx@sEN{HKoBGgGq@{ASmEy@}Cy@gA]eKqDoY{JqEsAiM{Cmi@_MiH_CuAi@oCuAoDuBkFaE{QePwGyFgFeDi_@qO{CqAcQmH}RmIqC{@kCoAaIkDgMqFwDaBsDoBgNsIgEgDwDkDoBmBkBsBcB}BgCkDmEiHiCoFgAeCwBgFoS}f@qOi_@yGePaPc`@gH}PuAeDk@cBeAeEuAgHm@yE_@sFIaCGcGBsD?_ABkK@gAAqJFoH@_FB}BXsCrAkFn@{Al@aAt@gAv@_AfAcAdCcC~D}DrGoGxJwJlC{CzOyObUmUlBiB^{@Bc@EUOW_@[{F{BsJ{D{B_AwHcD_Cy@yV{JkGgCiCwA[[eBs@gVuJ_@OaTqIkjByt@gUcJkAc@iCw@{BYc@CgAEsDCaPLiXLsWTsTRch@d@w@TwBJs@?o@[g@g@COJKNCjCJv@DHHhKM^MdDOpCEvRQx\\WzHGnBOn@OPMHWJkATiNHuIDoJJgRL}RXqg@T_c@JsFIk@?sCZoc@?s@@U]?_E?_D??P?tG@h@AdG?r@GRQHc@@iNAcP@eJBADIHK?MSNQ?sF?q@nA?vAA\\@HHHHHT@R"
+      },
+      "summary": "ถนน ราชพฤกษ์",
+      "warnings": [],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 14.0749589,
+          "lng": 100.6082198
+        },
+        "southwest": {
+          "lat": 13.7618257,
+          "lng": 100.5345055
+        }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "43.2 km",
+            "value": 43192
+          },
+          "duration": {
+            "text": "1 hour 11 mins",
+            "value": 4255
+          },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": {
+            "lat": 14.0737298,
+            "lng": 100.6028922
+          },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": {
+            "lat": 13.7627895,
+            "lng": 100.5345055
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 239
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 13.7618257,
+                "lng": 100.5364826
+              },
+              "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+              "polyline": {
+                "points": "m`_sAusrdRZu@v@wB^cA\\}@N_@N[L]"
+              },
+              "start_location": {
+                "lat": 13.7627895,
+                "lng": 100.5345055
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 346
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 82
+              },
+              "end_location": {
+                "lat": 13.7646306,
+                "lng": 100.5377749
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถ. พญาไท</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "mz~rA_`sdR[QGCUKi@UMGCAoDcBGCCCEAMEUKUIQKGCIEQGCAOGCAA?CAA?GCKAMAc@Aa@?"
+              },
+              "start_location": {
+                "lat": 13.7618257,
+                "lng": 100.5364826
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "5.7 km",
+                "value": 5723
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 714
+              },
+              "end_location": {
+                "lat": 13.8114455,
+                "lng": 100.5588012
+              },
+              "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Route 1</b><div style=\"font-size:0.9em\">Pass by RAINLOVE AREE (on the left in 2 km)</div>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "}k_sAahsdRK?C@A?C?C?C?C?GASAMCMEMEMEKGAAKGKIIIKOCECCGGCEEIM[EIEIEMOQMKIGOKSMc@UMEMGYMOIKEQGUKSIWK]Q]O[OYMYMOIOGa@SYMa@QOGq@[]QOGc@SQGECAASIo@YIEa@Os@WGEOEGAo@SYI[KCAEAs@OKEGAe@MEAc@KOEAAMC[IYGYIUG_@KKCw@S_Ba@gBe@iAYEAICMCMEQEg@Mq@QGA_@KoA[SGKC_@Ke@Ka@Kc@Mu@Qg@MMEKC{@UKC}Aa@QGC?SGYIICQGSEa@K_@K_@KUG[IGA[IeAYICEAOEKCAAeBc@?AC?KCEA_@KAAICKC_@GeA[]KIAWI}A_@oBi@MEEA[I]KYGa@MWGSEi@Mi@KCASGa@K[Ic@MUGIC]Ie@MA?YIo@OGCYGq@QYIsBe@}@UiBg@kAYWG{A_@UGi@OSGgAYo@UME_@IQEs@QwA_@{Bk@u@S_AWc@MOCc@Ms@SUGWGUGUGICGCc@KYG[KIAQEa@Ki@MSG]Kq@SA?OEKCICWGWGWIIASGEAc@M{Cu@}A]OBG@E@ICk@Ic@Kc@M]KQEKEEAGA[ICAa@M_@EYMmBw@o@Y]Q_@Q_CgAWMCAUMKEIE_@S[OGCSKUKsAq@SK]Qy@_@SKkCqAo@YMGe@WUMk@WMGQISIQKIE{DqBu@_@IEq@]eFcCi@Yg@Uy@c@oAo@YMWOo@[c@U_@QwAu@CAg@YIEGEgAi@a@SEA{@c@IEWOCAIEQK]Oi@YkB{@"
+              },
+              "start_location": {
+                "lat": 13.7646306,
+                "lng": 100.5377749
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 323
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 13.8142984,
+                "lng": 100.5589371
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ถนน วิภาวดีรังสิต</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "qphsAokwdRK?K?OAOAYAQCKBg@JMBW@k@A_@I]Kg@OMAa@?kAAwAFUC"
+              },
+              "start_location": {
+                "lat": 13.8114455,
+                "lng": 100.5588012
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "65 m",
+                "value": 65
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 13.8148849,
+                "lng": 100.5588867
+              },
+              "html_instructions": "Continue straight onto <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "kbisAklwdRq@DI?o@BG?"
+              },
+              "start_location": {
+                "lat": 13.8142984,
+                "lng": 100.5589371
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "20 m",
+                "value": 20
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 1
+              },
+              "end_location": {
+                "lat": 13.8150584,
+                "lng": 100.5588609
+              },
+              "html_instructions": "Continue straight to stay on <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "_fisAalwdRO@SB"
+              },
+              "start_location": {
+                "lat": 13.8148849,
+                "lng": 100.5588867
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.4 km",
+                "value": 1379
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 13.8273709,
+                "lng": 100.5575686
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "cgisA{kwdRk@Rc@F{AJK@a@Di@BG?G@kBFaDJa@@cABc@@U@mA?S@C?]@o@@o@DoABK@S@y@Aa@Bg@@_@DU@C?q@DC@m@DA?o@Bi@@C?I@E?K?m@Bk@ByAFc@B]BC?c@Ba@BM@U@c@BC@E?qAHK?_@Be@@Q@G@U?S@S@k@Ba@BaAFA?Y@W@WBO@{ATSD"
+              },
+              "start_location": {
+                "lat": 13.8150584,
+                "lng": 100.5588609
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 168
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 13.8288499,
+                "lng": 100.5572654
+              },
+              "html_instructions": "Keep <b>left</b>, follow signs for <b>Kamphaeng Phet 2</b>/<wbr/><b>Ratchayothin</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "atksAycwdRe@HM@c@BC?iC^aAJ"
+              },
+              "start_location": {
+                "lat": 13.8273709,
+                "lng": 100.5575686
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 300
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 13.8298017,
+                "lng": 100.5548709
+              },
+              "html_instructions": "Keep <b>right</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "i}ksA}awdRS@C@I@KDIFGFA@IJEJA@K`@EREXKn@Ur@Yn@Qf@GZC\\?T@R?J@L@J@P"
+              },
+              "start_location": {
+                "lat": 13.8288499,
+                "lng": 100.5572654
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 109
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 10
+              },
+              "end_location": {
+                "lat": 13.8294024,
+                "lng": 100.5539476
+              },
+              "html_instructions": "Continue onto <b>Khamphaengpetch 2 Rd</b>",
+              "polyline": {
+                "points": "gclsA}rvdRNf@@@DNv@|B"
+              },
+              "start_location": {
+                "lat": 13.8298017,
+                "lng": 100.5548709
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 102
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 13.8297164,
+                "lng": 100.5532247
+              },
+              "html_instructions": "Slight <b>right</b> to stay on <b>Khamphaengpetch 2 Rd</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "w`lsAemvdRFj@BVAPCJGJGHIFGDIBKBMB"
+              },
+              "start_location": {
+                "lat": 13.8294024,
+                "lng": 100.5539476
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 378
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 13.8305694,
+                "lng": 100.5562047
+              },
+              "html_instructions": "Keep <b>left</b><div style=\"font-size:0.9em\">Pass by กองบังคับการสืบสวนสอบสวน ตำรวจภูธรภาค 1 (on the left)</div>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "wblsAshvdR?H[GGAIAGAGACAC?AAQIA?CCA?CEACAACEIQGU?KGqBGiCCkAE_BCSG]C["
+              },
+              "start_location": {
+                "lat": 13.8297164,
+                "lng": 100.5532247
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 619
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 49
+              },
+              "end_location": {
+                "lat": 13.8358676,
+                "lng": 100.5569393
+              },
+              "html_instructions": "Continue onto <b>Vibhavadi Rangsit Frontage Rd</b>",
+              "polyline": {
+                "points": "ahlsAg{vdRGOCEIKEGMQIIMMOI_@OQISEOEWAKAa@Aa@Aa@?S?I?[AU@a@?I@i@@eA@O@a@@S?E?[@c@@e@@{AFSAO?yAAaAKICa@EKE"
+              },
+              "start_location": {
+                "lat": 13.8305694,
+                "lng": 100.5562047
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.5 km",
+                "value": 1501
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 111
+              },
+              "end_location": {
+                "lat": 13.8484111,
+                "lng": 100.5617016
+              },
+              "html_instructions": "Continue straight onto <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "eimsA{_wdRyAIuAGa@C}@CiBKSCy@ImAMmAOuAYcASWGC?k@Og@K_AW_AUa@Ke@Mk@OsAa@o@So@UyB{@oBy@A?g@U}@a@WKIGCAOGqAk@MGQE[OgAe@}CuAe@QwAk@WK_A_@KIEAwBw@OGiAg@"
+              },
+              "start_location": {
+                "lat": 13.8358676,
+                "lng": 100.5569393
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.8 km",
+                "value": 4784
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 319
+              },
+              "end_location": {
+                "lat": 13.8863661,
+                "lng": 100.5824943
+              },
+              "html_instructions": "Slight <b>left</b> to stay on <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "qwosAs}wdRe@I_Ae@iCeAaGqCoFeCa@UKEe@SgCmAwAo@m@YsHkDSI_@Q_@OaDuAs@WiAk@uB}@GA_@MiDwAoAo@k@Uq@YmAe@q@Wa@S[OqAu@}@g@QGOGKECCkAe@k@Y_@Qo@[_Aa@QIsAk@iD{AkD{Au@[s@[aBs@aBq@CCk@We@Ue@SYM[MoAk@i@WWMYKo@USK_@Ke@KYK]QiD}AgDyAa@S]QSSkCqAgB_AcCiA_@QoCmAkAo@mAk@yDgBcBs@_Aa@MEyB_Aq@]sCoAwAm@yAq@qFaCc@UQIYQGEEEYKIAUKSKGESKEA[MeHcDq@]GEQIiB}@[OECSIg@Uc@SOG{CuAyAo@m@W"
+              },
+              "start_location": {
+                "lat": 13.8484111,
+                "lng": 100.5617016
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 104
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 13.8871866,
+                "lng": 100.5829566
+              },
+              "html_instructions": "Continue straight to stay on <b>ถ. วิภาวดีรังสิต</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "ydwsAq_|dR]QWMmB}@"
+              },
+              "start_location": {
+                "lat": 13.8863661,
+                "lng": 100.5824943
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 177
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 13.8885213,
+                "lng": 100.5832592
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}iwsAob|dRMDEBG?G@CAA?GEKEa@Qm@YICw@a@QMCAA?AAA?A?A@A@CHCDCDKN"
+              },
+              "start_location": {
+                "lat": 13.8871866,
+                "lng": 100.5829566
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.8 km",
+                "value": 2823
+              },
+              "duration": {
+                "text": "5 mins",
+                "value": 312
+              },
+              "end_location": {
+                "lat": 13.9107193,
+                "lng": 100.5953457
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>ถ. กำแพงเพชร 6</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "grwsAkd|dRKRMGCAUK}@c@ECIIGKGIMQYOe@UqCoAEAIGICiCkAA?}BiAiB}@uBaAe@UmB_AIEIGsAq@SIYO[OoD_B{GkCsAi@_@Q_@Q_@QAA]O_Ac@_@Q?A_@OGEUKAAA?QIIECASKIE{As@]QaBw@OIM?A?[OGCSIYMAAYM[OGCy@[CCOGGCOGQIECUKgWoLmCkAECEGKUGCICMGGCcDwAOGKE_QwHQJQJ"
+              },
+              "start_location": {
+                "lat": 13.8885213,
+                "lng": 100.5832592
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.8 km",
+                "value": 3772
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 388
+              },
+              "end_location": {
+                "lat": 13.9415433,
+                "lng": 100.6077473
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>ถนน เชิดวุฒากาศ</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_}{sA}o~dRWK{BeAEC_Aa@yAs@a@Ua@U_@Q]Sa@Sc@S[M[OICIEUMUKGCGCUMUKSKUIIEIEWMWKi@Wk@Wc@UKEIEUIi@YKEQIUKUMMGMGGC}@a@aDyAeBw@o@]o@]gAg@SK{As@_CeAECMG_@QsAm@CAk@YkAi@IEkB}@uAq@m@WCAc@QGCIECAGEIEWM_@Qa@QQIQKc@Qq@]WKa@SYM?A_Ac@CAgGuC_A_@_Aa@[O{@_@qCsAUKIEAASKgBy@oCqAiBy@qDaBmB{@i@Qm@SAAk@SSGCAICWIc@Kk@Oi@QA?]Kc@Ma@GuASA?c@I{@MwBUC?m@E_@Ca@Cg@A_ACo@?m@A_@?_@?e@?c@@a@?a@@sAFsAFa@Bk@@_@B]Bi@@E?E@C@C@uBNmBL_@Bs@FK@M?K@mAD"
+              },
+              "start_location": {
+                "lat": 13.9107193,
+                "lng": 100.5953457
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "31 m",
+                "value": 31
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 4
+              },
+              "end_location": {
+                "lat": 13.9415276,
+                "lng": 100.6080307
+              },
+              "html_instructions": "Turn <b>right</b> to stay on <b>ถนน เชิดวุฒากาศ</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s}atAm}`eR@w@"
+              },
+              "start_location": {
+                "lat": 13.9415433,
+                "lng": 100.6077473
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "5.0 km",
+                "value": 5021
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 347
+              },
+              "end_location": {
+                "lat": 13.9859335,
+                "lng": 100.6020691
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถ. กำแพงเพชร 6</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "q}atAe_aeR_FVG@U@{DXkUvAiDRQBI?S@wBN}BNgDRE@qDTe@BkAHs@BoAHq@DcDRa@BeAH_@LkCPeDNaBJuIn@_Lp@kIb@kAFc@@_AH]BsAJi@@WDqBNW@i@FmAF[Bq@BsAF]JsEVQ@YBA?E?C?kDRwDRG@QEiBLaAFI?w@DaAHaAHiBLsBL_FXaBJgAHuDVaAF_AFmAHyCPK@{EXgBJi@D_ADuBNkAFk@DwAHA?O@A?K@aAFmAH}AJoFh@M@gFb@sFTSF[JWFDh@BV"
+              },
+              "start_location": {
+                "lat": 13.9415276,
+                "lng": 100.6080307
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 211
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 25
+              },
+              "end_location": {
+                "lat": 13.9856583,
+                "lng": 100.6001361
+              },
+              "html_instructions": "Take the ramp to <b>Pathum Thani</b>",
+              "polyline": {
+                "points": "asjtA}y_eRl@bGDb@?R@dA"
+              },
+              "start_location": {
+                "lat": 13.9859335,
+                "lng": 100.6020691
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 424
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 31
+              },
+              "end_location": {
+                "lat": 13.9850011,
+                "lng": 100.5962681
+              },
+              "html_instructions": "Merge onto <b>Route 346</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "kqjtA{m_eR@L?B?@BJBV?D@JF`@B^R|BFp@JfA@R@HHr@Bb@LvA@F@J@P\\lC"
+              },
+              "start_location": {
+                "lat": 13.9856583,
+                "lng": 100.6001361
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 641
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 13.9817996,
+                "lng": 100.5932184
+              },
+              "html_instructions": "Keep <b>left</b> to continue on <b>Route 345</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "gmjtAuu~dRHXVzBTxBHdAJjALdAHv@Lv@HTJNRLLHRFR@N@b@@jAIbAMrAMvAQTCF?\\E"
+              },
+              "start_location": {
+                "lat": 13.9850011,
+                "lng": 100.5962681
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 464
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 57
+              },
+              "end_location": {
+                "lat": 13.984781,
+                "lng": 100.593704
+              },
+              "html_instructions": "Make a <b>U-turn</b>",
+              "maneuver": "uturn-right",
+              "polyline": {
+                "points": "gyitAsb~dR@ND\\]DC@a@DoALoCVk@FI@k@JOAG@a@DUDUFI@G@GAE?CACAC?CCCCEGCIAKCQIy@EYCMCOAOG]CIACCC"
+              },
+              "start_location": {
+                "lat": 13.9817996,
+                "lng": 100.5932184
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 638
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 13.9857597,
+                "lng": 100.5995261
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Route 346</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{kjtAse~dREa@_AqJc@sEI}@AMGw@CUE[E}@CUq@{G"
+              },
+              "start_location": {
+                "lat": 13.984781,
+                "lng": 100.593704
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "8.3 km",
+                "value": 8270
+              },
+              "duration": {
+                "text": "11 mins",
+                "value": 649
+              },
+              "end_location": {
+                "lat": 14.0594617,
+                "lng": 100.5894779
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถนน เลียบคลองเปรมประชากร</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_rjtAaj_eRkAJs@DaIj@SBq@DqAJw@F}BRuAJq@D{@DiAH{@FI?iAHK@aBJuEX{AH]B{AJE?gBLmAHkAJoAJ_AFqBRiAJWDo@D_ABaCNc@BoDRqBLa@BI@G?UBK?}@FsAHyD\\G?gDX_BNyALe@BWBeBN}AL_@@SBoAJM@SBU@cBJyBNoCPkBPcCR}AJkBPaAJYBaAHiALaBLC?C?CA_AF_AFiE\\cEXaBJWBWBYBa@DE@{AL}BRqCVmBN_@ByBNkETK@C?G@s@DaH`@gBLk@DqCP_AHO@q@DqAHkU~Ao@FsCZsCT]B{ALyAJoDZ}FVcADo@DW@S@OBe@B_BNSBiDXwBRcAHqBP}CVE?qET{BPcAHqEViAFe@Ba@DK?}BPmCPA?]BKBqAHoAJm@Fc@Dy@@kBPcBN{DZaAHgDVmE^s@DE?[Bi@HiG^_@BiAHY@sCPo@BaBL}AJm@Dc@Bk@B_@DU@g@Hc@Fq@He@DQ@[@aBCc@Bm@FgBRiALQ@}ALWBiADSBqAHE?iBHQ?E?"
+              },
+              "start_location": {
+                "lat": 13.9857597,
+                "lng": 100.5995261
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 660
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 164
+              },
+              "end_location": {
+                "lat": 14.0601709,
+                "lng": 100.592815
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s~xtAgk}dREq@Es@@w@?q@yC?ICCACGAILuBAKACACCCE?C?M@U@c@Bq@HI@E?EAACCCAWAK?C@ABCD?j@GdAIb@E@?h@ELABA@ABC@E?KASIy@Eo@KiA"
+              },
+              "start_location": {
+                "lat": 14.0594617,
+                "lng": 100.5894779
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 609
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 89
+              },
+              "end_location": {
+                "lat": 14.0655152,
+                "lng": 100.5919168
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "acytAc`~dREBs@PE@c@LQDM@MAmBEM?g@Aa@AIAI?A?e@AK?u@AA?K?E@O@WDcANsBPG@s@Le@Hw@P}Cr@K@E@OBIB"
+              },
+              "start_location": {
+                "lat": 14.0601709,
+                "lng": 100.592815
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "93 m",
+                "value": 93
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 14.0663229,
+                "lng": 100.5916955
+              },
+              "html_instructions": "Continue onto <b>ถนน คลองหลวง</b>",
+              "polyline": {
+                "points": "odztAoz}dRYJa@Je@JQBK@M@Q?"
+              },
+              "start_location": {
+                "lat": 14.0655152,
+                "lng": 100.5919168
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 551
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 14.0657252,
+                "lng": 100.5966664
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>ถนน ยูงทอง</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "oiztAcy}dRIoAE}@Ag@Ak@B_@Hk@Py@F[FIDEDEHC@yADc@?O?I@O@M@IJoADa@PeB@UFyBF["
+              },
+              "start_location": {
+                "lat": 14.0663229,
+                "lng": 100.5916955
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Route 3214</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "yeztAex~dR@SH_F"
+              },
+              "start_location": {
+                "lat": 14.0657252,
+                "lng": 100.5966664
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 775
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ถนน คลองหลวง</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "meztAy__eRGUAU?m@?[?_A?I?gADmF?a@?]J}J@i@?KFeJ?Y?Y@U"
+              },
+              "start_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 212
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถนน ประชาสันต์</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ydztAsl`eR]?sA?kB?_D?"
+              },
+              "start_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 403
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 58
+              },
+              "end_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Sanya Dharmasakti Road</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wpztAsl`eR?P?Z?xF@^?H?hC?p@?b@Ad@?R?N?F?FADADABABCBC@C@E@E?G?I@K?O?"
+              },
+              "start_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 767
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 130
+              },
+              "end_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "html_instructions": "Continue onto <b>ถ. ตลาดวิชา</b>",
+              "polyline": {
+                "points": "esztAgw_eRI?g@A_EAo@?C?oB?cA@O?]@mA?oAAc@?{B?uC@a@?gC?I?yB?yA?"
+              },
+              "start_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 209
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "i~{tAgw_eR?@?@?@A??@?@A@?@A??@A??@A??@A?A?A?A??@AA?@A??AA?A?A??AA?AAA??AAA?A?AA??A?A?A?A?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB?u@?I?q@"
+              },
+              "start_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 110
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "__|tA_a`eRnA?NAfA?\\@"
+              },
+              "start_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "39 m",
+                "value": 39
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 14.0737298,
+                "lng": 100.6028922
+              },
+              "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yx{tA_a`eRHHBBDD@BBD@D@D@F?D?D"
+              },
+              "start_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "m`_sAusrdRpCoH^{@L][Q]Ow@]_EmBuB{@g@QuBCK?w@Mi@Um@k@s@qAU_@WSuAu@wCoAoLmFsD}A{DeAmLyC__@oJaZ{Hec@wKiHoBuMkDqKqCyBi@}@WyFsAWD_BW_Be@m@OaASgCeAmFeC}@c@_FcC_VoLqXeNyEaCcB{@wB{@[AgACu@NcA?sBg@mBAmBBsBHc@DoAZsDV}GTcHL{DLoBBgEVsENmNr@wETyAHcDf@uGt@_@V]z@m@pCk@vAKx@BbATfA|@lCJbAE\\OTg@TMB?Hc@I]GYKKMWo@SsIUmD[i@u@s@uAe@gBGgEBwFJyEByB[oGYeGg@cDi@{A[wCs@sD_AmHgCmGoCqNcGiBw@gC_AiAg@e@IiEkBqNwG{E}BmM_GuGoCgFyBwIwD}DaBqDmBiHcD{UeK_IoD}By@}Ai@qK}E_DeBkFiCiI{DkJcEyWoL}BiA{I_EuDkBmHeD}DgBmB}@MDMBUEeBu@uAs@g@|@eBy@_@c@g@a@wDeBcDyAgOmH}C{A_QgH_F}B}@c@}BgA_CiA]Iy@]qAm@eCeAq\\kOQ]QGiEkBkQ}Hc@VyEwB}DqBeEqBeCiAoJoE}[iOsj@mWiQgIgEcBmAa@wFyAwDk@iE_@yDIsCA}J\\sAFkF`@mBLyAF@w@_FV]Bg[pByEX{V|AgIf@eAH_@LqH`@wLz@kVtAmEVsLx@eCJ]JsEVk@DG?gJf@YCkDTeEX_P`AoYhByO~@_BJiL`AgFb@sFTo@RWFDh@p@zGHjCFh@v@~I`AlJ`@tC^~Dp@`GTd@`@Vf@Hr@BzHw@\\C\\E@ND\\]De@FuGn@eBP}@PUEQOc@iDQo@sBeTSwBIsAq@{GkAJuJp@eAH}Ir@uLt@gRjAmIr@aBPoBHgMt@iAHwIn@iJv@sKx@eVdB}LfAcTxA{OtAsUtAee@`DuJ|@uDXmLr@_DNiDZwMhAcDVmIf@_Jh@qEZmL|@eDR_Hj@kNfAuIl@wG`@cLr@cD`@sDBqFj@sEZsERE?Eq@CkB?q@yC?MEEQJaCMKkAFgAHIk@JIvCW|@KBi@OiBKiAEBy@Ru@RwCE}AEmC?wEh@oH|A_Dr@YBQ?IoAGeB@kAZeBNe@JKHC@yADs@@YTiCR{BFyBF[JsFIk@?sCDuJTyW?s@@U]?_E?_D??P?tG@h@AdG?r@GRQHeHAqb@BCLWDIWPMAsF?q@nA?vAA\\@HHHHHT@R"
+      },
+      "summary": "ถนน เลียบคลองเปรมประชากร",
+      "warnings": [],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 14.074961,
+          "lng": 100.6264501
+        },
+        "southwest": {
+          "lat": 13.7618257,
+          "lng": 100.5345055
+        }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "44.9 km",
+            "value": 44891
+          },
+          "duration": {
+            "text": "1 hour 17 mins",
+            "value": 4649
+          },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": {
+            "lat": 14.0737298,
+            "lng": 100.6028922
+          },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": {
+            "lat": 13.7627895,
+            "lng": 100.5345055
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 239
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 13.7618257,
+                "lng": 100.5364826
+              },
+              "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+              "polyline": {
+                "points": "m`_sAusrdRZu@v@wB^cA\\}@N_@N[L]"
+              },
+              "start_location": {
+                "lat": 13.7627895,
+                "lng": 100.5345055
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 346
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 82
+              },
+              "end_location": {
+                "lat": 13.7646306,
+                "lng": 100.5377749
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถ. พญาไท</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "mz~rA_`sdR[QGCUKi@UMGCAoDcBGCCCEAMEUKUIQKGCIEQGCAOGCAA?CAA?GCKAMAc@Aa@?"
+              },
+              "start_location": {
+                "lat": 13.7618257,
+                "lng": 100.5364826
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "5.8 km",
+                "value": 5777
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 730
+              },
+              "end_location": {
+                "lat": 13.8118527,
+                "lng": 100.5590789
+              },
+              "html_instructions": "At the roundabout, take the <b>2nd</b> exit onto <b>Route 1</b><div style=\"font-size:0.9em\">Pass by RAINLOVE AREE (on the left in 2 km)</div>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "}k_sAahsdRK?C@A?C?C?C?C?GASAMCMEMEMEKGAAKGKIIIKOCECCGGCEEIM[EIEIEMOQMKIGOKSMc@UMEMGYMOIKEQGUKSIWK]Q]O[OYMYMOIOGa@SYMa@QOGq@[]QOGc@SQGECAASIo@YIEa@Os@WGEOEGAo@SYI[KCAEAs@OKEGAe@MEAc@KOEAAMC[IYGYIUG_@KKCw@S_Ba@gBe@iAYEAICMCMEQEg@Mq@QGA_@KoA[SGKC_@Ke@Ka@Kc@Mu@Qg@MMEKC{@UKC}Aa@QGC?SGYIICQGSEa@K_@K_@KUG[IGA[IeAYICEAOEKCAAeBc@?AC?KCEA_@KAAICKC_@GeA[]KIAWI}A_@oBi@MEEA[I]KYGa@MWGSEi@Mi@KCASGa@K[Ic@MUGIC]Ie@MA?YIo@OGCYGq@QYIsBe@}@UiBg@kAYWG{A_@UGi@OSGgAYo@UME_@IQEs@QwA_@{Bk@u@S_AWc@MOCc@Ms@SUGWGUGUGICGCc@KYG[KIAQEa@Ki@MSG]Kq@SA?OEKCICWGWGWIIASGEAc@M{Cu@}A]OBG@E@ICk@Ic@Kc@M]KQEKEEAGA[ICAa@M_@EYMmBw@o@Y]Q_@Q_CgAWMCAUMKEIE_@S[OGCSKUKsAq@SK]Qy@_@SKkCqAo@YMGe@WUMk@WMGQISIQKIE{DqBu@_@IEq@]eFcCi@Yg@Uy@c@oAo@YMWOo@[c@U_@QwAu@CAg@YIEGEgAi@a@SEA{@c@IEWOCAIEQK]Oi@YkB{@s@c@OMKE"
+              },
+              "start_location": {
+                "lat": 13.7646306,
+                "lng": 100.5377749
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.7 km",
+                "value": 1687
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 168
+              },
+              "end_location": {
+                "lat": 13.8250018,
+                "lng": 100.5668463
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>Route 1</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "ashsAgmwdRGAEAA?ICKCSKQIWOAAA?KGMGCAKIk@Y_@UMICAKIUKOKOIWKMGAAGCCAKGMEEEQKECGC[O[Oi@a@]QYMIE]QOGGCGEk@YmB_Ae@SaAi@WMUMMG_@Sw@]y@]iBcA_@QaAg@IEeCiAYQWMUO]OcBy@YMCA]Q]OeAi@[OSK]Q]Oa@SYOWMg@UECa@SCCs@]iAi@WKIEIE[Oo@[c@Uy@a@QIe@USMUKUMk@[[O"
+              },
+              "start_location": {
+                "lat": 13.8118527,
+                "lng": 100.5590789
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 540
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 13.8292132,
+                "lng": 100.5693171
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>สะพานข้ามแยกรัชโยธิน</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "geksAy}xdRMQECCCy@_@c@Uq@]aBy@iAm@WK]SOIOG]QAACAy@_@YO_Ac@i@SiCoAWK[K"
+              },
+              "start_location": {
+                "lat": 13.8250018,
+                "lng": 100.5668463
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.3 km",
+                "value": 280
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": 13.8313898,
+                "lng": 100.5706161
+              },
+              "html_instructions": "Continue straight onto <b>ถ. พหลโยธิน</b>/<wbr/><b>Route 1</b><div style=\"font-size:0.9em\">Continue to follow ถ. พหลโยธิน</div>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "q_lsAgmydR_@UOGOKOGCAy@a@oBaAKGUKICSMUMc@U]OCCGCQI"
+              },
+              "start_location": {
+                "lat": 13.8292132,
+                "lng": 100.5693171
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "43 m",
+                "value": 43
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 13.8317275,
+                "lng": 100.5708011
+              },
+              "html_instructions": "Continue straight to stay on <b>ถ. พหลโยธิน</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "emlsAkuydRMEKEKG]O"
+              },
+              "start_location": {
+                "lat": 13.8313898,
+                "lng": 100.5706161
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 558
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 60
+              },
+              "end_location": {
+                "lat": 13.836076,
+                "lng": 100.5733406
+              },
+              "html_instructions": "Keep <b>right</b> to continue on <b>สะพานข้ามแยกเสนานิคม</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "iolsAovydRm@c@cAg@]Qu@]eB}@IEUK]SOIm@[WKUMQIk@Y{@c@C?iB_AsAo@[OUMGCA?EAE?K?"
+              },
+              "start_location": {
+                "lat": 13.8317275,
+                "lng": 100.5708011
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 243
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 13.8379656,
+                "lng": 100.5744678
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>ถ. พหลโยธิน</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ojmsAkfzdRMIEAy@a@]QCAOGo@]_@SAA]Sw@_@i@Wg@W"
+              },
+              "start_location": {
+                "lat": 13.836076,
+                "lng": 100.5733406
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 487
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 35
+              },
+              "end_location": {
+                "lat": 13.8417503,
+                "lng": 100.5767056
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>สะพานข้ามแยกเกษตร</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "ivmsAmmzdR?CAACCCAEC]QIEiAk@MGw@a@WMKGMGQK_@SIEcAg@QKSIKGm@[g@UMG_@Q_@SeBy@k@YAAC?AAC?E?"
+              },
+              "start_location": {
+                "lat": 13.8379656,
+                "lng": 100.5744678
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "8.7 km",
+                "value": 8716
+              },
+              "duration": {
+                "text": "13 mins",
+                "value": 804
+              },
+              "end_location": {
+                "lat": 13.9097642,
+                "lng": 100.6167977
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>ถ. พหลโยธิน</b><div style=\"font-size:0.9em\">Pass by Chatuchak Post Office (on the left in 1.2 km)</div>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "}mnsAm{zdRA?AAEAwAq@GCWMaAc@_@Su@]u@a@OGOKCASMkAo@k@YCCGCAA[OAAu@_@q@]]QSKCAo@YiB_Aq@[y@a@{@a@GCWMA?]SQISMUKe@Ue@WqAm@g@Wk@Wg@Wa@QMGMGECa@Q_@U[Oe@WUMsBaAYMkAm@_@QKEQKq@[yAu@GCIE_Aa@YOMEMGiAk@g@U]Qm@[sAq@QI[QMGk@YQIMGi@YOIg@UIG]OgAg@yAu@EASKSKIESKc@UWOECMGeAi@{@c@uBeAQIc@UKECCA?OIq@]c@Uc@SUM[OSKCAi@YUMYMYMs@]q@]_Bw@u@_@KEQKGCk@[QGECAA[OSK{Au@MGCCa@QKGA?GEKEOIMG{BiAOIu@_@_@Sc@SWMQIOIc@Sa@So@[UMEAMI]Qk@Y}@c@IEQIGEaBw@m@YyBiAc@USIUMGC_@ScB}@ICYMCCQGm@[kCuA}@a@}@c@c@UA?a@S{Au@]QUKSIyDqB]QsGgDMGg@WA?QKcAg@MIiAk@kCsA?A]OGCyFqC_@Q_@Qq@a@yAq@_@Qc@SSICCA?GEmAi@SIMGg@U]Qq@_@y@c@s@]SKYOk@[_@SUMUK]QGC}@c@cAe@s@_@OIUOKEMGKGWM_@QMG]Q_@Qa@Sa@SOIQIIEc@WSIQIWMUM_@S]QCACASKoAm@ICQKQIYKmBy@_Ae@i@Wg@Wi@Wa@U[OUKi@WCCQIECg@WeAg@_@UwAu@OIQKGCYQWK]O[QaAc@UOm@]IGQIIEa@Sa@SUKUM_@Q_@S[O[Oi@Y]OMIUKWMMGKG]OMGe@UWMIEQIQKs@]GEGCGCKEs@][Q]Sk@WMGAA]Q{As@e@WKGOKq@_@UKWKMG_A_@a@Sa@S]O?AKECAECm@[m@]s@_@cEuBEAQKMGe@Uy@a@{BeAw@a@cCkAoDeBmDgBgOoHMGiB_AqAs@iB}@aBy@{Au@[MKE?AYM[QWKwAw@"
+              },
+              "start_location": {
+                "lat": 13.8417503,
+                "lng": 100.5767056
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "3.9 km",
+                "value": 3940
+              },
+              "duration": {
+                "text": "6 mins",
+                "value": 356
+              },
+              "end_location": {
+                "lat": 13.9425131,
+                "lng": 100.623689
+              },
+              "html_instructions": "Continue straight onto <b>Route 1</b>",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "_w{sA_vbeROGMIoAo@oAm@}C}AqAm@sAm@oAo@qAm@cG}CaDaBeB{@o@]SIyJ_F}DmBKEyAs@IEcAg@OIc@U}BkAoCuAECAACAGCAAIEGCkAk@wE_Cs@_@_@QKEKGqAm@OIiAi@iAi@iAk@e@S]OaAa@ICMEMCMEMAMCKAC?KAOAE?OAA?C?SAC?E?E?C?O@I?I@eBLgCVgCVw@Hc@DwBTiCV}Fn@WDiAJwHv@q@FUBc@DYBi@FE@u@FYDO@iALy@JK@M@QBy@FK@I@UBYBe@FSBq@HaAJc@Dw@HG@G@UBUB[DA?c@DWBa@Da@Da@Dq@Fg@FmALmAJ{ANI@kALYB_AJiAJM@"
+              },
+              "start_location": {
+                "lat": 13.9097642,
+                "lng": 100.6167977
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1106
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 66
+              },
+              "end_location": {
+                "lat": 13.9523062,
+                "lng": 100.6219329
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Route 1</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "ucbtAaadeRa@Be@Dc@Dc@Dc@DgBPkAJc@DiAJe@Dm@HWBO@O@y@HE@A?I@A?o@FK@A?I@a@DWBE?c@F}Hz@cIz@c@HM@IBI@KBK@O@Q@a@BsCZsCZ"
+              },
+              "start_location": {
+                "lat": 13.9425131,
+                "lng": 100.623689
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 783
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 78
+              },
+              "end_location": {
+                "lat": 13.9582809,
+                "lng": 100.6206682
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Route 1</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "}`dtAavceRaAHG?I@qAPgANUBqANc@DO@M@SBI@K@E?C?C@I@IBK@IBIBGBKDIBUJCBA@KFIFKFCBEFMJKJKNILCDINWf@GNQXEHEDEFKLGHEBEBGDE@C@C?C@E@C?G@C?E?E?C?CAC?EAEACAAAC?IEAAAACCCACCCCACCCIMGMKUGMAEEIACCECECECCEECAACCAC?CACAEAC?C?CAC@C?E?A@K@YBK@y@D]@O@C?"
+              },
+              "start_location": {
+                "lat": 13.9523062,
+                "lng": 100.6219329
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.4 km",
+                "value": 2368
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 237
+              },
+              "end_location": {
+                "lat": 13.9792624,
+                "lng": 100.6169082
+              },
+              "html_instructions": "Keep <b>left</b> to continue on <b>ทางคู่ขนาน ถ. พหลโยธิน</b><div style=\"font-size:0.9em\">Pass by อุดมผ้าม่าน (on the left in 400m)</div>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "gfetAenceRaAJaCZwAP}AN}ANG?G@QBSBy@HK@k@FWBE@[B]D]BkALkALo@Hm@FmD^}BTG@E@wAJuAL_@D[By@Hg@Dg@DqBRo@HmBPsANi@Fi@FK@KB]BQ@a@DoAL{@HC@y@JuANgBP}Ef@aC\\uBRqALiBRG@k@FS@_@D{Hr@SBuEd@_BNqALk@HK?UB"
+              },
+              "start_location": {
+                "lat": 13.9582809,
+                "lng": 100.6206682
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 456
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 39
+              },
+              "end_location": {
+                "lat": 13.9832975,
+                "lng": 100.6161631
+              },
+              "html_instructions": "Continue straight",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "kiitAuvbeRqAJQ@wH~@_BN_BNeALC?aAJ_@D_@F"
+              },
+              "start_location": {
+                "lat": 13.9792624,
+                "lng": 100.6169082
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 124
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 13.9838093,
+                "lng": 100.6152119
+              },
+              "html_instructions": "Turn <b>left</b> at <b>พหลโยธิน 125</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "sbjtA_rbeRC^E`@Qd@CFQ^MXIHKDOB"
+              },
+              "start_location": {
+                "lat": 13.9832975,
+                "lng": 100.6161631
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 589
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 57
+              },
+              "end_location": {
+                "lat": 13.9825286,
+                "lng": 100.6099128
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ซอยพหลโยธิน 127</b>/<wbr/><b>ถนน เลียบคลองรังสิต</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "yejtAalbeRBRNfAPdALx@Lv@b@pC`@pCn@xDD\\DXT~AHb@Lx@Lz@"
+              },
+              "start_location": {
+                "lat": 13.9838093,
+                "lng": 100.6152119
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 535
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 108
+              },
+              "end_location": {
+                "lat": 13.9873365,
+                "lng": 100.6099691
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>รังสิต-ปทุมธานี 15</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "y}itA}jaeRMB_A@s@AiDEaHIyD?yD?"
+              },
+              "start_location": {
+                "lat": 13.9825286,
+                "lng": 100.6099128
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 449
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 13.9866472,
+                "lng": 100.6058711
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Route 346</b><div style=\"font-size:0.9em\">Pass by อี้เหวิน ชานมไข่มุก (on the left)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{{jtAikaeRNlBNjBFl@Fj@J~@Jz@?DD`@@LHz@Hz@Jx@B^Fv@Hl@BT"
+              },
+              "start_location": {
+                "lat": 13.9873365,
+                "lng": 100.6099691
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.1 km",
+                "value": 1052
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 71
+              },
+              "end_location": {
+                "lat": 13.9850011,
+                "lng": 100.5962681
+              },
+              "html_instructions": "Keep <b>right</b> to stay on <b>Route 346</b>",
+              "maneuver": "keep-right",
+              "polyline": {
+                "points": "qwjtAuq`eRDh@BTFt@H~@r@vH?BJbA@N@FDd@B^@D@J@FFj@n@fGHr@RbB@L?B?@BJBV?D@JF`@B^R|BFp@JfA@R@HHr@Bb@LvA@F@J@P\\lC"
+              },
+              "start_location": {
+                "lat": 13.9866472,
+                "lng": 100.6058711
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 641
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 13.9817996,
+                "lng": 100.5932184
+              },
+              "html_instructions": "Keep <b>left</b> to continue on <b>Route 345</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "gmjtAuu~dRHXVzBTxBHdAJjALdAHv@Lv@HTJNRLLHRFR@N@b@@jAIbAMrAMvAQTCF?\\E"
+              },
+              "start_location": {
+                "lat": 13.9850011,
+                "lng": 100.5962681
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 464
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 57
+              },
+              "end_location": {
+                "lat": 13.984781,
+                "lng": 100.593704
+              },
+              "html_instructions": "Make a <b>U-turn</b>",
+              "maneuver": "uturn-right",
+              "polyline": {
+                "points": "gyitAsb~dR@ND\\]DC@a@DoALoCVk@FI@k@JOAG@a@DUDUFI@G@GAE?CACAC?CCCCEGCIAKCQIy@EYCMCOAOG]CIACCC"
+              },
+              "start_location": {
+                "lat": 13.9817996,
+                "lng": 100.5932184
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 638
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 13.9857597,
+                "lng": 100.5995261
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Route 346</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{kjtAse~dREa@_AqJc@sEI}@AMGw@CUE[E}@CUq@{G"
+              },
+              "start_location": {
+                "lat": 13.984781,
+                "lng": 100.593704
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "8.3 km",
+                "value": 8270
+              },
+              "duration": {
+                "text": "11 mins",
+                "value": 649
+              },
+              "end_location": {
+                "lat": 14.0594617,
+                "lng": 100.5894779
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถนน เลียบคลองเปรมประชากร</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "_rjtAaj_eRkAJs@DaIj@SBq@DqAJw@F}BRuAJq@D{@DiAH{@FI?iAHK@aBJuEX{AH]B{AJE?gBLmAHkAJoAJ_AFqBRiAJWDo@D_ABaCNc@BoDRqBLa@BI@G?UBK?}@FsAHyD\\G?gDX_BNyALe@BWBeBN}AL_@@SBoAJM@SBU@cBJyBNoCPkBPcCR}AJkBPaAJYBaAHiALaBLC?C?CA_AF_AFiE\\cEXaBJWBWBYBa@DE@{AL}BRqCVmBN_@ByBNkETK@C?G@s@DaH`@gBLk@DqCP_AHO@q@DqAHkU~Ao@FsCZsCT]B{ALyAJoDZ}FVcADo@DW@S@OBe@B_BNSBiDXwBRcAHqBP}CVE?qET{BPcAHqEViAFe@Ba@DK?}BPmCPA?]BKBqAHoAJm@Fc@Dy@@kBPcBN{DZaAHgDVmE^s@DE?[Bi@HiG^_@BiAHY@sCPo@BaBL}AJm@Dc@Bk@B_@DU@g@Hc@Fq@He@DQ@[@aBCc@Bm@FgBRiALQ@}ALWBiADSBqAHE?iBHQ?E?"
+              },
+              "start_location": {
+                "lat": 13.9857597,
+                "lng": 100.5995261
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 660
+              },
+              "duration": {
+                "text": "3 mins",
+                "value": 164
+              },
+              "end_location": {
+                "lat": 14.0601709,
+                "lng": 100.592815
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s~xtAgk}dREq@Es@@w@?q@yC?ICCACGAILuBAKACACCCE?C?M@U@c@Bq@HI@E?EAACCCAWAK?C@ABCD?j@GdAIb@E@?h@ELABA@ABC@E?KASIy@Eo@KiA"
+              },
+              "start_location": {
+                "lat": 14.0594617,
+                "lng": 100.5894779
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 609
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 89
+              },
+              "end_location": {
+                "lat": 14.0655152,
+                "lng": 100.5919168
+              },
+              "html_instructions": "Turn <b>left</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "acytAc`~dREBs@PE@c@LQDM@MAmBEM?g@Aa@AIAI?A?e@AK?u@AA?K?E@O@WDcANsBPG@s@Le@Hw@P}Cr@K@E@OBIB"
+              },
+              "start_location": {
+                "lat": 14.0601709,
+                "lng": 100.592815
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "93 m",
+                "value": 93
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 14.0663229,
+                "lng": 100.5916955
+              },
+              "html_instructions": "Continue onto <b>ถนน คลองหลวง</b>",
+              "polyline": {
+                "points": "odztAoz}dRYJa@Je@JQBK@M@Q?"
+              },
+              "start_location": {
+                "lat": 14.0655152,
+                "lng": 100.5919168
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 551
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 14.0657252,
+                "lng": 100.5966664
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>ถนน ยูงทอง</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "oiztAcy}dRIoAE}@Ag@Ak@B_@Hk@Py@F[FIDEDEHC@yADc@?O?I@O@M@IJoADa@PeB@UFyBF["
+              },
+              "start_location": {
+                "lat": 14.0663229,
+                "lng": 100.5916955
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>Route 3214</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "yeztAex~dR@SH_F"
+              },
+              "start_location": {
+                "lat": 14.0657252,
+                "lng": 100.5966664
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 775
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "html_instructions": "Slight <b>left</b> onto <b>ถนน คลองหลวง</b>",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "meztAy__eRGUAU?m@?[?_A?I?gADmF?a@?]J}J@i@?KFeJ?Y?Y@U"
+              },
+              "start_location": {
+                "lat": 14.0656741,
+                "lng": 100.597889
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 212
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>ถนน ประชาสันต์</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ydztAsl`eR]?sA?kB?_D?"
+              },
+              "start_location": {
+                "lat": 14.0655738,
+                "lng": 100.6050634
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 403
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 58
+              },
+              "end_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Sanya Dharmasakti Road</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wpztAsl`eR?P?Z?xF@^?H?hC?p@?b@Ad@?R?N?F?FADADABABCBC@C@E@E?G?I@K?O?"
+              },
+              "start_location": {
+                "lat": 14.0674793,
+                "lng": 100.6050556
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.8 km",
+                "value": 767
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 130
+              },
+              "end_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "html_instructions": "Continue onto <b>ถ. ตลาดวิชา</b>",
+              "polyline": {
+                "points": "esztAgw_eRI?g@A_EAo@?C?oB?cA@O?]@mA?oAAc@?{B?uC@a@?gC?I?yB?yA?"
+              },
+              "start_location": {
+                "lat": 14.0678705,
+                "lng": 100.601643
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 209
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 37
+              },
+              "end_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "html_instructions": "At the roundabout, take the <b>3rd</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+              "maneuver": "roundabout-left",
+              "polyline": {
+                "points": "i~{tAgw_eR?@?@?@A??@?@A@?@A??@A??@A??@A?A?A?A??@AA?@A??AA?A?A??AA?AAA??AAA?A?AA??A?A?A?A?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB?u@?I?q@"
+              },
+              "start_location": {
+                "lat": 14.0747716,
+                "lng": 100.6016365
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 110
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "html_instructions": "Turn <b>right</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "__|tA_a`eRnA?NAfA?\\@"
+              },
+              "start_location": {
+                "lat": 14.0748803,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "39 m",
+                "value": 39
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": 14.0737298,
+                "lng": 100.6028922
+              },
+              "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yx{tA_a`eRHHBBDD@BBD@D@D@F?D?D"
+              },
+              "start_location": {
+                "lat": 14.0738898,
+                "lng": 100.6031973
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "m`_sAusrdRpCoH^{@L][Q]Ow@]_EmBuB{@g@Q_BEU@K?w@Mi@Um@k@s@qAU_@WSuAu@wCoAoLmFsD}A{DeAmLyC__@oJaZ{HuKoCcFoAkOwDuDgAsBg@uMkDqKqCyBi@}@WyFsAWD_BW_Be@m@OaASgCeAmFeC}@c@_FcC_VoLqXeNyEaCcB{@{DsBYGiAi@m@]_DgBmAi@e@Yw@_@gAs@qAm@iDcBuCyA_DwAuEcCmEyB}HuDqEyBqNcHgAk@SUsCwAaHmDwCuAsDcBs@WoAq@yDmBwCyAw@]kAs@aBy@{DmBsBeAmJuEe@SQ?SKkB}@oBgAiCoAIKaFgCwNiHOAaBu@aCiAkCsAyDsByHyDuOuH}O}HsG{C_I}DqMoGyOaIa\\cPm`@uRyMwGiRsJyIoEaIyDoEyByDeBwGkDyLeGkJwE_CiAyEuB}FuC_HoDwAq@aDcBuDkB{EaCyIiEeG{CoBcAqCoAcEwB}NkHi^iQsHyDsHqDeEyBsKgFkb@aTcPaIwDmBqNcH}E_CoCiAaBYiAEc@@_K~@}T~BwXpCwc@pEoRdBkCViAJiUhC}BTqJ`AyDf@cE`@cATsAr@c@b@c@r@w@zA_@d@k@Tg@?c@Qg@q@i@iA_@Ua@?_F\\uKlAu@HkD\\}QlByIv@kNvAgHt@}D`@_JdAyHv@eV|B_DZcBLwKnAkFh@_ALI`Au@fBUNOBBR`@lCZpBzBzNr@vELz@MBsB?kMOsJ?n@rH~@bJdCtXzApNh@vFt@nIB\\f@fDbAfKV|BVlA^\\`@Pb@BnBGdGq@d@EFl@sCZqFl@W?w@Jo@HQCQYUqBQkAOs@oBqSWgDu@qH_CPyM`AiOdAcRjAgGb@kIr@gAJaERgJh@gKt@cS~AiOdAaTjB{RrAmL`A_Hj@uIf@sUzA_[vBgHp@yBPiGf@aI\\kBLoWxBwET_EZaIb@wLz@}BR}AFmMfAoL|@eALiHb@gH`@qGb@iCTmCX}BAqAJaHp@oI`@KeB@iBcDCGIJ_CCOOGyBPO@GEGk@DEp@GtCUVI@QKmAQyBy@TiAVqDIaDGy@HwD`@{@NgGpAy@TeB\\_@@OmCCsALkAXuALONIF}BBw@d@aFHoCHo@H_FGUAcA?mDZab@@o@qB?kG??l@@lLAnCAd@IPSDm@@iNA{S@}E@?BCDGFM?IGAKDKHE?eHdE?TVHd@"
+      },
+      "summary": "ถ. พหลโยธิน",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

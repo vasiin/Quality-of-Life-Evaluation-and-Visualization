@@ -1,0 +1,1112 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJj9fMB7Se4jARBYzWwOX2VBo",
+      "types": ["street_address"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJP9fosex_4jARdKapl3ygFOE",
+      "types": ["establishment", "point_of_interest", "university"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": { "lat": 14.0778338, "lng": 100.6209864 },
+        "southwest": { "lat": 13.7612578, "lng": 100.5345224 }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "9:30\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688783400
+          },
+          "departure_time": {
+            "text": "7:10\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688775017
+          },
+          "distance": { "text": "41.4 km", "value": 41449 },
+          "duration": { "text": "2 hours 20 mins", "value": 8383 },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+          "steps": [
+            {
+              "distance": { "text": "0.3 km", "value": 311 },
+              "duration": { "text": "4 mins", "value": 227 },
+              "end_location": { "lat": 13.7612792, "lng": 100.5361249 },
+              "html_instructions": "Walk to Army Medical Department",
+              "polyline": {
+                "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HULFLFNHf@Rb@T"
+              },
+              "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+              "steps": [
+                {
+                  "distance": { "text": "0.2 km", "value": 239 },
+                  "duration": { "text": "3 mins", "value": 172 },
+                  "end_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+                  "polyline": { "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HU" },
+                  "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "72 m", "value": 72 },
+                  "duration": { "text": "1 min", "value": 55 },
+                  "end_location": { "lat": 13.7612792, "lng": 100.5361249 },
+                  "html_instructions": "Turn <b>right</b> onto <b>ถ. พญาไท</b>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "wz~rA{_sdRLFLFNHf@Rb@T" },
+                  "start_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "27.3 km", "value": 27282 },
+              "duration": { "text": "1 hour 15 mins", "value": 4493 },
+              "end_location": { "lat": 13.9746107, "lng": 100.6176317 },
+              "html_instructions": "Bus towards Rajamangala University of Technology Thanyaburi",
+              "polyline": {
+                "points": "aw~rAu}rdRDKc@Se@SQIUK[QGCUKi@UMGCAoDcBGCCCEAMEUKUIQKGCIEQGCAOGCAA?CAA?GCKAMAc@Aa@?K?C@A?C?C?C?C?GASAMCMEMEMEKGAAKGKIIICKAKAGAI?IAG?G@G?E@G@C@EBCBGDEBEBCDEBABCBABCFCLGFERI@?d@SZMHIHIBCBCHOFQDMPg@Z{@FODOFQHQFQFQDKDI@GBCCM?E@EHWb@sADODMNc@Ne@L_@FOPe@BCDIDIP_@P]JS@ABM@K@QAE?CAGAEGa@M{@Q{@AECM?CAEACAE?AEOEQO_AESGYEYAIACIYACAGCI?GMo@Mu@GWMy@G_@COMo@Kg@a@}BQSA?KK_Bq@OIMGWMk@Yk@YiCcASIAAcAa@KEMIEGy@s@QGAAy@a@{@c@y@c@AAGCOIWOAAKGMGOIi@YGC_@Q}BkAMGq@WyB{@YM_@OECECECEAAAOGA?QIcAc@[MWMKGw@Ky@]CCo@[k@U]OkBw@q@We@Sk@WaAa@}B_AKG}@_@k@YMGWOm@Wc@WKG_Bs@GCq@]}As@]OqAo@kAm@s@]iAk@WQOKKGUMECu@]wBaAuAq@cAe@QG{As@eAi@{Au@k@[UM[M_@UmB_Ag@YKE{Aq@GC{@]QGa@OCAAAKKOGOGe@SUM[Og@Ua@_@Y?_@QIEA?c@QICcAa@SIQIMCUIEA{@Yq@Qq@Mo@KMCMCi@IIAa@G]A]Cc@Ee@E[CWCWAMAM?M?k@?_@?K?c@@kA@uBHm@BW@K?I?E?A?C?E?EAEA[@A?wBJ{@DsAFa@@c@@G@W@c@D{@DG@G?[BwAJA?U@i@B]Bc@Bm@BI?iAFK@eBFe@BcAHS@U@u@Lc@Ho@JgBJ[?q@?c@AmAHi@@U@a@Bq@D{@D[Aq@BM@i@Bq@BM@M?qABi@@_CBsA@E@M?I?cADcADuBL]@WBK?K@q@Dq@FeADgAFU@c@@Y@M@m@Bu@DM?iAFe@BiBHc@B}CLkBFC?K?K@I?W@M?A?I@O@U?G@S@G?c@Ba@DW@U@G?[B[@s@DK@O@I?A?I@g@BA?W@A?C@E?O@c@B}CTO@S@yIZaAByBNeALq@FWDy@@A?u@Bi@@W@o@DaCHaAHgAHA?uH^e@@cMZu@Dg@@a@DgAFiAFw@DaERK@cCR_E\\O@Y@M?M@I?C@{E\\M@K@A?O@KBC?a@@{BJc@Bk@FcBJcCNsBHW@qDLGAi@?aAFeAAk@?Q?yAIuAGa@C}@CiBKQC{@ImAMmAOuAYcASWGC?k@Og@K_AW_AUa@Ke@Mk@OsAa@o@So@UyB{@oBy@AAg@S}@a@WKIGCAOGqAk@MGQE[OgAe@}CuAe@SwAi@WK_A_@KIEAwBw@OGiAg@Q[CCUM]SIE{@_@MGQI[Oo@[QISMIE]S_Aa@[OSKIECEU]SKiCiAuCqAOGOEOE}As@[MeAe@s@[cH{C[MQI_@Oa@QKEICWM{As@UKSKcBw@s@[gDwAUKIC_FuB_@O_@Q_@OkBw@SKCAkCiASKOG_Bs@_Ac@UISK_Aa@WKGCqAk@_CcA_CeA_@O}As@_CcA_@O_EeBAAA?[OaDuA_DuAAAEAUMSIkF_C_@OwDcByLyFUKUIaBw@UKQKOGOGmBaAw@_@cAg@}Aw@IEuB_A}@c@_Bs@}@c@cAe@{@]_@Qe@S_CeAyCsA[I]OKEA?EAECICi@O_@MEAY@SKEA[MeHcDq@_@GCQIiB}@[OECSIg@Uc@SOGuBaAe@SyAo@m@WKWm@[GEs@[]OkAg@SKKECAa@QAAcBq@wDoB_@Q]SkCsAIEGCc@Ya@Yw@g@]USMiBy@w@]s@_@MM{As@iLoF{As@MGCAKGOGCAa@SkAi@GE[MECSK_@O]OsD{AUI{@_@u@_@e@SiAg@[OA?OGIE}@c@mCsAIC_Bw@]Si@U{@c@s@[sCiAIAu@[MGiBk@EAMGOGy@]aBs@aCcAiCkA?AA?qEuB]Q_Ac@_@Q{DiB_Ac@{DkB_Bu@}CwA}Au@wBcAq@[_@U_@U_Bs@sB_AIE_@QuAm@uAo@{DkB_@QQIIEIEGCeAg@yAo@yAq@s@]_@QGAWM]QmB{@uAq@aAc@w@_@cBy@i@Ui@YsAm@?A]O_@Q_@QqAm@o@[_@SQIC?MGIEw@]qAm@SICAA?CCCCECiBw@q@_@A?UM_@Qs@]gAa@g@UGCQI_@Q{BgAYOCA[Q{@a@kB_AcAc@AAOGECIEUKgAg@gAg@_Bu@qAk@aBw@OIuBcAu@]}@a@e@S[OOGECIEa@Qu@_@e@U_@Qc@SaAe@i@Wk@YMGQIy@]cCiAcBw@OGMGA?UMMGm@WSKKGUIuAk@_Bq@oAg@y@a@]Qu@]WMc@KGAWOICoAk@i@YkAg@IEGEWKCCOISIQISMqAo@k@YSIIEIEe@Sc@SgAk@o@[GEOMaF}BqB_AoB}@ECECm@YOI_@QOImB}@eEmBWMiBy@UKMGMGwAo@wAq@}DiB]Q}DiB_Ac@yDgB}@c@MGm@Wm@YGCECICIC_@Oi@UUIs@YeBo@wBw@g@Oa@KQEOCc@IKAiAOIA_@EIAGAK?WCOAuBIm@AE?aA@[?G?c@B[?G@c@@[Bo@BA@K@A?K@qANWBc@DC@]DE?gCZs@HwDb@c@FOBQBUBG@C?I@eD\\SBaBPcE`@oCP}@HqBTG@qBRwALuM|AQBG?I@G@I@{Gp@sEd@uANeGn@oALE@qALk@FFp@"
+              },
+              "start_location": { "lat": 13.7612894, "lng": 100.5361056 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 13.9746107, "lng": 100.6176317 },
+                  "name": "Makro Rangsit"
+                },
+                "arrival_time": {
+                  "text": "8:43\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688780638
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.7612894, "lng": 100.5361056 },
+                  "name": "Army Medical Department"
+                },
+                "departure_time": {
+                  "text": "7:29\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688776145
+                },
+                "headsign": "Rajamangala University of Technology Thanyaburi",
+                "headway": 900,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "1-24E NGV (538 NGV) : Priest Hospital - Rajamangala University of Technology Thanyaburi (Expressway)",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 33
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "13.6 km", "value": 13560 },
+              "duration": { "text": "32 mins", "value": 1930 },
+              "end_location": { "lat": 14.0753195, "lng": 100.6017084 },
+              "html_instructions": "Bus towards Thammasat University (Rangsit)",
+              "polyline": {
+                "points": "ilhtAe{beRGq@w@HK@?@I@m@Fs@FcAJ_Eb@E?uCXQ@}ANwBRs@HiCTgCTkDZM@SBk@F[Be@D]Da@DaAHoD\\A?gBRI?WDA?G@qCVcHr@G@I@G?G@C?I@oBRs@F{@H}@JSBI@M@I@QBG?SBWBMBuD^o@FiALWBe@DYDM@}@Hu@HQ@qANy@HYDwANmAHcCD}AAeCCm@Ac@A{CGeDCK?e@Ac@?k@As@As@A{@AmBEU?m@Aw@?gCEG?WAG?c@As@AiA?qCAcDAyBEaGEwCCO?qBEkAEcBCi@?a@@S?w@?WD_HU]?A?[AsBAqD@_BAmBCoQSaAAQ?O?]?OBQBM?c@?w@AM?[?c@Ai@?e@@O@UDQ?i@Ai@Cy@Ay@Ce@Ag@Ae@?e@?gAAa@AO?QAaAAS?o@AkAAiAA}DE_EEe@AuFIk@Aa@AaBAA?UAcAAC?Q?WAs@Au@CO?OAYAC?U?sBE_BAMAK?e@AsCEu@A}@C_AAo@AQ?I?uACQ?S?m@Am@Aq@?q@AM?M?e@Aq@?YAQ?c@AOAMA[?[@m@C[AW?WAWAc@?c@Ag@?mAC{AAa@Ca@Ao@AoBGQ?IA_AC}@?}@AaACc@CKAG?KAIACAA?CAAACAAAACO?yBAy@?kAAU?iCEwACe@A[AYAa@?E?[A}DIm@?aBCyAAm@Ae@A]AG?qAEm@A[CEHC@C@A@C?E@E?g@?k@AW?U?G?QAoBGoAAcCEkBEg@?YAaACuCAu@AiDEmBCcCE_BC_@?_@A}DG}DE_@Aa@AS?QAy@CE?y@AOAE?I?]Aa@?kCEU?YA[?iBCcACaACYA[CM?K?[?]A[?kBAUAo@?aAAsBGYAU?K?u@Ac@Ac@AK?}@COAu@AU?]AaDEiAAa@LMBO@E?C?i@Ca@IMEGEqACg@?gA?{EEuBCeJEuCAo@Ck@EqCI}ACkACm@A{BC]A]C{@Ay@A_@?Q?A?s@?g@Ae@AAf@?h@?zA?zA@lGUJSJORFb@B\\?^?H@~E?R@tG@vD?d@?b@@~C?`D?bG@xF?fDAt@?l@AFAHEHC@C?}@@a@?i@@aA?O?G?}@?o@?E@YFAj@?z@AbA\\An@?\\@T@D?X?X?N@\\@Z?J?@A@A@A@A@??A@?@?@A@?@?@?@?@?@?@??@@?@??@@?@??@@??@@??@@@?@@@?@@@?@?@?@?@?@?@?@A??@?@A@?@A??@A??@A??@ELCJAV?j@GpBA`@Ad@?ZAZ?F?@?H?@|@?H?H?zBAH??O"
+              },
+              "start_location": { "lat": 13.9746107, "lng": 100.6176317 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 14.0753195, "lng": 100.6017084 },
+                  "name": "Behind The Science Park"
+                },
+                "arrival_time": {
+                  "text": "9:26\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688783168
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.9746107, "lng": 100.6176317 },
+                  "name": "Makro Rangsit"
+                },
+                "departure_time": {
+                  "text": "8:53\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688781238
+                },
+                "headsign": "Thammasat University (Rangsit)",
+                "headway": 600,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "510 NGV : Victory Monument - Thammasat University (Rangsit)",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 18
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "0.3 km", "value": 296 },
+              "duration": { "text": "4 mins", "value": 218 },
+              "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+              "html_instructions": "Walk to 99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+              "polyline": {
+                "points": "wa|tAew_eRfAA?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqBbAAhACz@CDCDCBC@CBEBI@I"
+              },
+              "start_location": { "lat": 14.0753181, "lng": 100.6016287 },
+              "steps": [
+                {
+                  "distance": { "text": "40 m", "value": 40 },
+                  "duration": { "text": "1 min", "value": 29 },
+                  "end_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "html_instructions": "Head <b>south</b> on <b>ถ. ตลาดวิชา</b>",
+                  "polyline": { "points": "wa|tAew_eRfAA" },
+                  "start_location": { "lat": 14.0753181, "lng": 100.6016287 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 114 },
+                  "duration": { "text": "1 min", "value": 84 },
+                  "end_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+                  "maneuver": "roundabout-left",
+                  "polyline": {
+                    "points": "o_|tAgw_eR?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB"
+                  },
+                  "start_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 142 },
+                  "duration": { "text": "2 mins", "value": 105 },
+                  "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+                  "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "__|tAm}_eRbAAhACz@CDCDCBC@CBEBI@I" },
+                  "start_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "s`_sAwsrdRpCqH^{@HULF\\PjAh@A@DKiAg@kAk@qAk@mGuC}@]YG_BC]?a@E[Kg@WUSEWEc@B]JUb@a@p@[f@Sd@WZa@z@cCz@}B@G?Q@Kl@kBj@gBj@yAn@qARo@Ac@i@_DQy@c@_CSaAy@uEY_Bm@eDSSiCoAcAg@uD}AeBs@SQy@s@QG{@c@uBgAq@_@{FwCeGeCkCgAc@Uw@Ky@]s@_@iAe@oF{BiGiCwGaD_GqCaFiCw@e@gIwDoG{C}BmA}FqCwBy@a@WkAi@cAe@a@_@Y?_@QKEqBw@iAa@aA[cB_@uB]eFc@aAC{B@eHPUCqERaH\\qRbAkANsATcCJuAAoDPmBJmA@wBJiGHqBB{GZwHb@mHZuOj@}Hb@}AHeF\\{K^_E\\iALqBDsFRaMr@gQd@kFZmETcIp@w@BsGd@qJj@wFXiENq@AgCD}@?oDQ{EWiCWcDi@kCk@iEeAuEsAiDqAqB{@gCiAsB}@m@UeF{BuEiBQKgC_AiAg@Q[YQqBaAkFiC}@g@U]SK_H{CmCgAyLkFyFeCaEkBgL}EcKmEib@{Q_KoEwM}FgQgIoKiF{NwGeDyAyCsA[Ii@UGAyAe@_@?YMaIqDy@c@wCwAkJeEm@WKWu@a@qD_Bs@[cBq@wDoB}@e@aEwBkCeBaDwAaAm@oR_JuDeBwAo@{HeDsJqEqDeBoB_A}CkAcAc@oBm@yDaB}P}Hk\\sOqE{BsFeCeLoFsLoFmVkL_EeBaFcCkDyAgEsBcHgD_X_M{TgKeBy@wEoBiCiAsAo@{@Y_@QoEqBm@[eFeC{CyAw@a@OMaF}BaF}BECcBy@iNqGqY{M_EiBiBs@yCiA_DgAgB_@_CYu@GyDMmFLyEb@oM|AyI~@cE`@oCPoD^yBTmPjBk@FoQhBmLlAk@FFp@Gq@w@HKBI@eJ~@iUtB{J~@_ZtCuLlAsMpAsEd@qBTqENuHIsJMeLO_FGiDCuHC{JKeJOcEAoAD}HUcIA_Z[a@?m@B_@B{AAwBAu@Bg@DgEKyCC}IKs[_@sFKqV_@eIIsEGwEImKOiKSwAMGEQCyBAeHGsDIaGKwGG}CIiAEIJODqBA_DIgJMcX]cPU{T_@mGI{JOiKQiAAa@L]DI?kAMUKyBC_WOeEE}DOsIMqDIgB?mACApA?vD@lGUJc@^J`A@|GFvi@CrGGRG@kEBeC?_@HAfBAbA\\AlA@nA@tABHGHCTFDVSh@O|H?J|@@xCA?O?NfAC?CBCHGBaAAqBbAAdCGPOHY"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": { "lat": 14.0778338, "lng": 100.6264511 },
+        "southwest": { "lat": 13.7618783, "lng": 100.5345224 }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "9:30\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688783400
+          },
+          "departure_time": {
+            "text": "7:19\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688775591
+          },
+          "distance": { "text": "40.5 km", "value": 40480 },
+          "duration": { "text": "2 hours 10 mins", "value": 7809 },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+          "steps": [
+            {
+              "distance": { "text": "0.4 km", "value": 361 },
+              "duration": { "text": "5 mins", "value": 316 },
+              "end_location": { "lat": 13.76279, "lng": 100.53703 },
+              "html_instructions": "Walk to Victory Monument",
+              "polyline": {
+                "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HUWKECKGABiC}A"
+              },
+              "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+              "steps": [
+                {
+                  "distance": { "text": "0.2 km", "value": 239 },
+                  "duration": { "text": "3 mins", "value": 172 },
+                  "end_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+                  "polyline": { "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HU" },
+                  "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "31 m", "value": 31 },
+                  "duration": { "text": "1 min", "value": 22 },
+                  "end_location": { "lat": 13.7620918, "lng": 100.5365784 },
+                  "html_instructions": "Turn <b>left</b> onto <b>ถ. พญาไท</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                  "maneuver": "turn-left",
+                  "polyline": { "points": "wz~rA{_sdRWKECKG" },
+                  "start_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 10 },
+                  "end_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "html_instructions": "Take entrance <span class=\"location\">Entrance/Exit 1</span>",
+                  "polyline": { "points": "c|~rAo`sdR" },
+                  "start_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 30 },
+                  "end_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "polyline": { "points": "c|~rAo`sdR" },
+                  "start_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 27 },
+                  "end_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "polyline": { "points": "c|~rAo`sdR" },
+                  "start_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 30 },
+                  "end_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "polyline": { "points": "c|~rAo`sdR" },
+                  "start_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "91 m", "value": 91 },
+                  "duration": { "text": "1 min", "value": 25 },
+                  "end_location": { "lat": 13.76279, "lng": 100.53703 },
+                  "polyline": { "points": "c|~rAo`sdRiC}A" },
+                  "start_location": { "lat": 13.762103, "lng": 100.536557 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "16.9 km", "value": 16912 },
+              "duration": { "text": "33 mins", "value": 1980 },
+              "end_location": { "lat": 13.89659, "lng": 100.60908 },
+              "html_instructions": "Train towards Khu Khot",
+              "polyline": {
+                "points": "m`_sAmcsdRDIi@WmAi@QIIECAKGECKIECGEEEEIKOCGACAECIAEAOIk@EUEUEOQ_@KMUUEEIEIEMGMEQCKAGAI?K?K?Q@I@I@K@SFa@FSDC@G?E@G?Y@MAEAYCGCKCECGCk@Wi@WOGg@Ws@]{@_@yAo@gAe@WMc@Ss@[a@Qs@WGCSIiB{@MEMGCAQGMECASGi@MWGSGOCWIw@Um@QeAYoCq@[IaDw@cCk@OE_AWuAa@gA[cCo@eAUgBe@iBg@YIgCm@uA_@iEiAe@M_Ci@eDw@MCKEIA}Ae@aBa@oA[k@M{@UMESGw@Y}@Yo@Og@KiAWqBg@s@Q[IEAME]K_@Ke@M[Ky@SoCs@mA[uDaAoD{@mCs@eD{@qA]wA_@qBi@mCs@k@O}FyA_EeAkCq@kBk@mDcAEAGCICWIe@QQGs@[k@W]Qm@[qCqA_D}AqCuAwCyAiDcBg@W[OQKUKe@SsBaAeAe@o@Yo@Yc@SMIIESK_@Sm@]yAw@i@We@UiAi@}Au@aAc@WMYMIEu@_@OIYOy@e@_CiAoAo@_@S[OGCIEGEEC_@SOKIEIEMGKEYKk@Se@QOGKGKEYOSK[Oa@Uc@WWO[Q_@Sk@[eAm@_CkAMGQGgBy@uE{B_@Q[O[OSKu@]s@]}@g@y@c@gAi@i@YaAe@}Ay@eCmAgAk@mCsAkB_A{@c@iB_AwAs@eEuBuAs@A?SKmJsE}Au@q@]sCuAyBeAiDcBiB}@mUaLcAg@cCkAeB{@aBw@_EqBo@[iGyCiG{CmDeB{EaC}FoCECaJqEgAk@mDeB_CkAyJ}EkB_A{EaCkDcBeB{@oAm@cEsBoDgBcI}DmFkCw@_@wE_CyE_Cq@]aCkAaFcCuIiEwHuD}FuCaI{DqDgBKGg@WiBcAcDeBeB_AgAm@}CcBeDgBsAs@s@_@eCuAsDoBkE_CqAs@eAWgFkAg@YMEKGg@U[Oc@UgAi@{Aw@m@[y@_@c@QSIEGCMUK[MSMKCWISKOI{@e@e@Uk@Yk@[u@_@c@UmBcAaAe@e@UECy@_@kAo@_Ae@cBy@yAs@k@[cAi@eCmAeCmAaBq@gD}Au@c@a@Qu@_@GCOIq@]gAi@k@Y_@SeB}@_@Um@[WKUK{@c@eAk@_@W[O_Bu@cAg@eAi@u@_@QIqAq@}As@oBaAWMYMy@a@]UaAe@kB}@cB_A@C"
+              },
+              "start_location": { "lat": 13.76279, "lng": 100.53703 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 13.89659, "lng": 100.60908 },
+                  "name": "Saphan Mai"
+                },
+                "arrival_time": {
+                  "text": "8:05\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688778308
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.76279, "lng": 100.53703 },
+                  "name": "Victory Monument"
+                },
+                "departure_time": {
+                  "text": "7:32\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688776328
+                },
+                "headsign": "Khu Khot",
+                "headway": 420,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "BTS Sky Train",
+                      "phone": "02 617 7300",
+                      "url": "https://www.bts.co.th/index.html"
+                    }
+                  ],
+                  "color": "#78b82a",
+                  "name": "Sukhumvit Line",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                    "name": "Train",
+                    "type": "HEAVY_RAIL"
+                  }
+                },
+                "num_stops": 16,
+                "trip_short_name": "Kheha - Khu Khot"
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "47 m", "value": 47 },
+              "duration": { "text": "1 min", "value": 75 },
+              "end_location": { "lat": 13.8969929, "lng": 100.6092482 },
+              "html_instructions": "Walk to Ying Charoen Market",
+              "polyline": { "points": "udysAweaeRcAWKI" },
+              "start_location": { "lat": 13.89659, "lng": 100.60908 },
+              "steps": [
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 30 },
+                  "end_location": { "lat": 13.89659, "lng": 100.60908 },
+                  "polyline": { "points": "udysAweaeR" },
+                  "start_location": { "lat": 13.89659, "lng": 100.60908 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "1 m", "value": 0 },
+                  "duration": { "text": "1 min", "value": 27 },
+                  "end_location": { "lat": 13.89659, "lng": 100.60908 },
+                  "polyline": { "points": "udysAweaeR" },
+                  "start_location": { "lat": 13.89659, "lng": 100.60908 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "39 m", "value": 39 },
+                  "duration": { "text": "1 min", "value": 10 },
+                  "end_location": { "lat": 13.89693, "lng": 100.6092 },
+                  "html_instructions": "Take exit <span class=\"location\">Entrance/Exit 3</span>",
+                  "polyline": { "points": "udysAweaeRcAW" },
+                  "start_location": { "lat": 13.89659, "lng": 100.60908 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "8 m", "value": 8 },
+                  "duration": { "text": "1 min", "value": 8 },
+                  "end_location": { "lat": 13.8969929, "lng": 100.6092482 },
+                  "polyline": { "points": "yfysAofaeRKI" },
+                  "start_location": { "lat": 13.89693, "lng": 100.6092 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "22.8 km", "value": 22846 },
+              "duration": { "text": "59 mins", "value": 3520 },
+              "end_location": { "lat": 14.0754798, "lng": 100.601579 },
+              "html_instructions": "Bus towards Thammasat University Rangsit",
+              "polyline": {
+                "points": "igysAkfaeRHQA?MG_A_@a@Sa@S]O?AKECAECm@[m@]s@_@cEuBEAQKMGe@Uy@a@{BeAw@a@cCkAy@a@uBcAmDgBgOoHMGiB_AqAs@iB}@aBy@{Au@[MKE?AYM[QWK}@e@YQOGMIoAo@oAm@}C}AqAm@qAm@qAo@qAm@SKoFqCaDaBeB{@o@]SIYO_JoE}DmBKEyAs@IEcAg@OIc@U}BkAoCuAECAACAGCAAIEGCkAk@[O{DoBs@_@_@QKEKGqAm@OIiAi@iAi@iAk@e@S]OSIm@WICMEMCMEMAMCKAC?KAOAE?OAA?C?SAC?E?E?C?O@I?I@eBLgCVgCVw@Hc@DwBT{ANm@F}Fn@WDE?cAJsHv@C?q@FUBc@DYBi@FE@u@FYDO@iALy@JK@K@A?QBy@FK@I@UBYBe@FSBq@HaAJc@Dw@HG@G@UBUB[DA?c@DWBa@Da@Da@Dq@Fg@Fs@FYDmAJ{ANI@kALYB_AJiAJM@IHE@E@O@cBTM?UBk@HeAJeEh@q@Hu@JK@q@Hs@HG@uALM@O@_DXs@FuBTeAHC?YDi@DSBI?}BTe@DG@G@M@E?EACAKEIBI@KBK@O@Q@a@BsCZsCZaAHG?I@qAPgANUBqANc@DO@M@SBI@K@E?C?C@I@IBK@IBIBGBKDIBUJCBA@KFIFKFCBEFMJKJKNILCDINWf@GNQXEHEDEFKLGHEBEBGDE@C@C?C@E@C?G@C?E?E?C?CAC?EAEACAAAC?IEAAAACCCACCCCACCCIMGMKUGMAEEIACCECECECCEECAACCAC?CACAEAC?C?CAC@C?E?A@K@YBK@y@D]@O@C?aAJaCZwAP}AN}ANG?G@QBSBy@HK@k@FWBE@[B]D]BkALI@aAJo@Hm@FmD^}BTG@E@k@Dk@DuAL_@D[By@Hg@Dg@DqBRo@HmBPsANi@Fi@FK@MB[BQ@a@DoAL{@HC@y@JuANgBP}Ef@aC\\uBRqALwAPQ@G@k@FS@_@D{Hr@SBuEd@_BNqALk@HK?UBSCICKGuBRMHKDKBq@FQBgDZ}@JI@y@Fy@Ju@FWBeCVC?OBO@k@Fm@Ho@Fo@FwC\\Q@QB}CZYDUBy@HYBq@J_@DY@]D]D}ANG@MBWDy@PG@GBcCT[Be@DQBc@DWDWBs@FcIl@UB}@FE?{@JQ?i@?G?q@?y@B{@@iA@S?A?qACG?C?C?S?u@Aw@A{@AO?GAkAAgAA_BA_BCw@Ac@A{ACK?E?S?gBAs@As@AU?C?O?M?A?AAQAU?cAAwACaAAG?iAAg@Ag@AqDEiCCg@?]?a@?w@A_A?e@Ai@A_A@}@Am@AO?a@?k@A_@AQAM?I?_@Ai@?qACy@Ac@Ac@AYAI@a@A]Ac@?a@Aq@Aw@Aa@A_@?a@?o@CG?e@@g@?g@C_CC_CEiECiEEuCC_@AW?}AAwBEM?oBEQ?i@Ai@Cy@Ay@Ce@Ag@Ae@?e@?gAAa@AO?QAaAAS?o@AkAAiAA}DE_EEe@AuFIk@Aa@AaBAA?UAcAAC?Q?WAs@Au@CO?OAYAC?U?sBE_BAMAK?e@AsCEu@A}@C_AAo@AQ?I?uACQ?S?m@Am@Aq@?q@AM?M?e@Aq@?YAQ?c@AOAMA[?[@m@C[AW?WAWAc@?c@Ag@?mAC{AAa@Ca@Ao@AoBGQ?IA_AC}@?}@AaACc@CKAG?KAIACAA?CAAACAAAACO?yBAy@?kAAU?iCEwACe@A[AYAa@?E?[A}DIm@?aBCyAAm@Ae@A]AG?qAEm@A[CEHC@C@A@C?E@E?g@?k@AW?U?G?QAoBGoAAcCEkBEg@?YAaACuCAu@AiDEmBCcCE_BC_@?_@A}DG}DE_@Aa@AS?QAy@CE?y@AOAE?I?]Aa@?kCEU?YA[?iBCcACaACYA[CM?K?[?]A[?W?sAAUAo@?aAAsBGYAU?K?u@Ac@Ac@AiACOAu@AU?]AaDEiAAa@LMBO@E?C?i@Ca@IMEGEqACg@?gA?{EEuBCeJEuCAo@Ck@EqCI}ACkACm@A{BC]A]C{@Ay@A_@?Q?A?s@?g@Ae@AAf@?h@?zA?H?pA@lGUJSJORFb@B\\?^?H@~E?R@tG@vD?d@?b@@~C?`D?bG@xF?fDAt@?l@AFAHEHC@C?}@@a@?i@@aA?O?G?}@?o@?E@YFAj@?z@AbA\\An@?\\@T@D?X?X?N@\\@Z?J?@A@A@A@A@??A@?@?@A@?@?@?@?@?@?@??@@?@??@@?@??@@??@@??@@@?@@@?@@@?@?@?@?@?@?@?@A??@?@A@?@A??@A??@A??@ELCJAV?j@GpBA`@Ad@?ZAZ?F?@?H?@|@?H?H?dBA?H"
+              },
+              "start_location": { "lat": 13.8970098, "lng": 100.6091806 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 14.0754798, "lng": 100.601579 },
+                  "name": "Thailand Science Park"
+                },
+                "arrival_time": {
+                  "text": "9:26\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688783168
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.8970098, "lng": 100.6091806 },
+                  "name": "Ying Charoen Market"
+                },
+                "departure_time": {
+                  "text": "8:27\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688779648
+                },
+                "headsign": "Thammasat University Rangsit",
+                "headway": 1200,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "1-4 EV (39 EV) : Thammasat University Rangsit - Bang Khen",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 40
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "0.3 km", "value": 314 },
+              "duration": { "text": "4 mins", "value": 231 },
+              "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+              "html_instructions": "Walk to 99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+              "polyline": {
+                "points": "wb|tAew_eRT?pAA?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqBbAAhACz@CDCDCBC@CBEBI@I"
+              },
+              "start_location": { "lat": 14.0754804, "lng": 100.6016261 },
+              "steps": [
+                {
+                  "distance": { "text": "58 m", "value": 58 },
+                  "duration": { "text": "1 min", "value": 42 },
+                  "end_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "html_instructions": "Head <b>south</b> on <b>ถ. ตลาดวิชา</b>",
+                  "polyline": { "points": "wb|tAew_eRT?pAA" },
+                  "start_location": { "lat": 14.0754804, "lng": 100.6016261 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 114 },
+                  "duration": { "text": "1 min", "value": 84 },
+                  "end_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+                  "maneuver": "roundabout-left",
+                  "polyline": {
+                    "points": "o_|tAgw_eR?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB"
+                  },
+                  "start_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 142 },
+                  "duration": { "text": "2 mins", "value": 105 },
+                  "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+                  "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "__|tAm}_eRbAAhACz@CDCDCBC@CBEBI@I" },
+                  "start_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "s`_sAwsrdRpCqH^{@HUWKQKABiC}ADIi@W_Bs@_@S_@YWe@Ie@[gB]m@[[o@Yo@Gs@BUBu@Ne@Ha@@SCa@GQGmB{@qFeCwDcBqBw@iCkAw@WeBa@cEkAmIsBsCq@uCy@kEkAmD{@cCq@}EmAoFwAeHaBaCq@yGaBwCaAsG{AcFuAmMeD}HoBwFyAcKmC}L_DwF}AeEmAcC_AiGwCiMmG_GwCuFgCqCqAkBcAsFoCqEuBsKsFu@_@_Ai@}@_@mBu@uAq@yBoAkAo@eEyB_@O}HuDkB}@u@]qBeAmFmCyLgG{SmK_`@eRmi@wW}[}O}FoCgJuEoV{LsNeHkj@oX}x@_a@eFgC{LwGc`@ySeAWgFkAg@YYMcAe@uFsC}Aq@SIEGCMUKo@[c@Mc@UyDqBiG_DeBy@kCuA}DmBoBeAkG{CiGoCwAu@mAm@eEuBeCsAeAg@qAo@eBcAeGwCwFoC{E_C_B{@oE}B@CcAWKICLHQOGaBs@_Ac@UMsIoEkAk@qJuEeZ}NiE{BcI{DaEsBkIeEgIyDi]cQmHmDuFsCwDmBaNyGmFiCwAm@sAe@u@MoAGS?iCPmRlB_J`A_KbAwGp@uD^wLpAwU|BOJUBsDb@kGt@gBTyBVsGj@sFf@uGn@]AKEIBUDoAHqJ`AyDf@sCXkANg@Lo@Xc@Xc@b@c@r@w@zA_@d@YNg@FQAQGa@WWc@[s@MUOOa@IOBe@DeAFsBNyEl@}AN_CTeCVaE`@cNxAsJx@cJ~@mBT_DXoEf@eIx@aC\\uBRiD^YB_BNeSlB_DZ]GKGuBRYN}@JaGl@kJ|@uJdAmKfAaD\\gB\\kCXaAHeBRkM`AaAJ{@?oDDqDAmEEgMOgJIqCEwRU_DAoEAiGI}QWyBCmA@gDGiTSmGI}JSaIIsZ]aHIuEKmFIyDGsBEkCCiDE_HGsAEw@@iAEkBCuFG_IU{BAeBGi@EKEGGcEAcIKkKQ{DEsACeDI[CEHGBQBaCAyEKqHMwLMmX_@cRY{DMsAA}CC_GKoHM_HIo@PU@m@Co@OGEqACoB?mYQ{AIoFMsGKsDGoBAe@AAf@?dC?zA@lGUJc@^J`A@|GBvOB~XCrGAHEHG@kEBeC?_@HAfBAbA\\AlA@nA@tABBCHEJAJBDHBJAJEFKZKvECdB?J|@@R?dBA?H?IT?pAA?A?A?A@ABEDA@A@?@aAAqBbAAdCGPOHY"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": { "lat": 14.0778338, "lng": 100.6209786 },
+        "southwest": { "lat": 13.7616453, "lng": 100.5345224 }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "9:30\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688783400
+          },
+          "departure_time": {
+            "text": "7:15\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688775348
+          },
+          "distance": { "text": "41.5 km", "value": 41459 },
+          "duration": { "text": "2 hours 14 mins", "value": 8052 },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+          "steps": [
+            {
+              "distance": { "text": "0.3 km", "value": 331 },
+              "duration": { "text": "5 mins", "value": 288 },
+              "end_location": { "lat": 13.7617739, "lng": 100.5366584 },
+              "html_instructions": "Walk to Century",
+              "polyline": {
+                "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HULFLFPHCBA?A?KGA??AFKDKDK?ABG?AAAMEA@CCCA"
+              },
+              "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+              "steps": [
+                {
+                  "distance": { "text": "0.2 km", "value": 239 },
+                  "duration": { "text": "3 mins", "value": 172 },
+                  "end_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+                  "polyline": { "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HU" },
+                  "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "24 m", "value": 24 },
+                  "duration": { "text": "1 min", "value": 20 },
+                  "end_location": { "lat": 13.7616501, "lng": 100.5363277 },
+                  "html_instructions": "Turn <b>right</b> onto <b>ถ. พญาไท</b>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "wz~rA{_sdRLFLFPH" },
+                  "start_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "21 m", "value": 21 },
+                  "duration": { "text": "1 min", "value": 27 },
+                  "end_location": { "lat": 13.7617583, "lng": 100.5363611 },
+                  "html_instructions": "Turn <b>right</b> toward <b>ถ. พญาไท</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "iy~rAa_sdRCBA?A?KGA??A" },
+                  "start_location": { "lat": 13.7616501, "lng": 100.5363277 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "26 m", "value": 26 },
+                  "duration": { "text": "1 min", "value": 38 },
+                  "end_location": { "lat": 13.7616361, "lng": 100.5365902 },
+                  "html_instructions": "Take the pedestrian overpass",
+                  "polyline": { "points": "_z~rAg_sdRFKDKDK?ABG" },
+                  "start_location": { "lat": 13.7617583, "lng": 100.5363611 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "18 m", "value": 18 },
+                  "duration": { "text": "1 min", "value": 29 },
+                  "end_location": { "lat": 13.7617285, "lng": 100.5366332 },
+                  "html_instructions": "Turn <b>left</b> toward <b>ถ. พญาไท</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-left",
+                  "polyline": { "points": "gy~rAu`sdR?AAAMEA@" },
+                  "start_location": { "lat": 13.7616361, "lng": 100.5365902 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "3 m", "value": 3 },
+                  "duration": { "text": "1 min", "value": 2 },
+                  "end_location": { "lat": 13.7617739, "lng": 100.5366584 },
+                  "html_instructions": "Slight <b>right</b> onto <b>ถ. พญาไท</b>",
+                  "maneuver": "turn-slight-right",
+                  "polyline": { "points": "yy~rA}`sdRCCCA" },
+                  "start_location": { "lat": 13.7617285, "lng": 100.5366332 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "1.3 km", "value": 1344 },
+              "duration": { "text": "7 mins", "value": 420 },
+              "end_location": { "lat": 13.763329, "lng": 100.5446413 },
+              "html_instructions": "Bus towards Rama 9",
+              "polyline": {
+                "points": "az~rAgasdRQb@UMGCUKi@UMGCAoDcBGCCCEAMEUKUIQKGCIEQGCAOGCAA?CAA?GCKAMAc@Aa@?K?C@A?C?C?C?C?GASAMCMEMEMEKGAAKGKIIIKOCECCGGCEEI?YBUDc@DWFa@?A@A@APGdA[FA@?F@NF^FFDDBHIHIBCBCHOFQDMPg@Z{@FODOFQHQFQFQDKDI@GBCCM?E@EHWb@sADODMNc@Ne@L_@FOPe@BCDIDIP_@P]JS@ABM@K@QAE?CAGAEGa@M{@Q{@AECM?CAEACAE?AEOEQO_AKB"
+              },
+              "start_location": { "lat": 13.7617702, "lng": 100.5366765 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 13.763329, "lng": 100.5446413 },
+                  "name": "สำนักงาน ป.ป.ส."
+                },
+                "arrival_time": {
+                  "text": "7:35\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688776537
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.7617702, "lng": 100.5366765 },
+                  "name": "Century"
+                },
+                "departure_time": {
+                  "text": "7:28\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688776117
+                },
+                "headsign": "Rama 9",
+                "headway": 480,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "36 AC : Rama 9 - Si Phraya Pier",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 3
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "18.6 km", "value": 18570 },
+              "duration": { "text": "32 mins", "value": 1920 },
+              "end_location": { "lat": 13.9142905, "lng": 100.5980738 },
+              "html_instructions": "Bus towards Rangsit",
+              "polyline": {
+                "points": "yc_sA_stdRJCESGYEYAIACIYACAGCI?GMo@Mu@GWMy@G_@COMo@Kg@a@}BQSA?KK_Bq@OIMGWMk@Yk@YiCcASIAAcAa@KEMIEGy@s@QG{@c@{@c@y@c@AAGCOIWOAAKGMGOIi@YGC_@Q}BkAMGq@WyB{@YM_@OECECECEAAAOGA?QIcAc@[MWMKGGKGEi@USIgBu@sAi@gFuBWIuDaBsB_AwA}@CA{B_AsAk@MEaAc@{BeAECa@WaAo@m@]wAw@GCECg@U}@a@_Ac@wCuAcAg@_@OCCq@[o@]a@SSIKGQIQIkBcAOGCAkAq@CAMGqAq@OG_@KYKg@OiCoAYMMGAA]Q}@c@sAk@AAu@[SI_Aa@yAa@_B[q@MOACAQAk@MKAQAQCm@GQAGASCMAI?IAo@AQAC?I?YAQAwA?S?s@B]?E@a@@e@BiDN}CLe@B{BNcADcAFE?I@K@S@S@sAFsAFcEVQ@sAH}AJU@U@U@U@uEPyFTeH\\kCLs@D{@DS@m@BkAFE@M?I?cADcADuBL]@WBK?K@q@Dq@FeADgAFU@c@@Y@M@m@Bu@DM?iAFe@BiBHc@B}CLkBFC?K?K@I?W@M?A?I@O@U?G@S@G?c@Ba@DW@U@G?[B[@s@DK@O@I?A?I@g@BA?W@A?C@E?O@c@B}CTO@S@yIZaAByBNeALq@FWDy@@A?u@Bi@@W@o@DaCHaAHgAHA?uH^e@@cMZu@Dg@@a@DgAFiAFw@DaERK@cCR_E\\O@Y@M?M@I?C@{E\\M@K@A?O@KBC?a@@{BJc@Bk@FcBJcCNsBHW@qDLGAi@?aAFeAAk@?Q?yAIuAGa@C}@CiBKQC{@ImAMmAOuAYcASWGC?k@Og@K_AW_AUa@Ke@Mk@OsAa@o@So@UyB{@oBy@AAg@S}@a@WKIGCAOGqAk@MGQE[OgAe@}CuAe@SwAi@WK_A_@KIEAwBw@OGiAg@Q[CCUM]SIE{@_@MGQI[Oo@[QISMIE]S_Aa@[OSKIECEU]SKiCiAuCqAOGOEOE}As@[MeAe@s@[cH{C[MQI_@Oa@QKEICWM{As@UKSKcBw@s@[gDwAUKIC_FuB_@O_@Q_@OkBw@SKCAkCiASKOG_Bs@_Ac@UISK_Aa@WKGCqAk@_CcA_CeA_@O}As@_CcA_@O_EeBAAA?[OaDuA_DuAAAEAUMSIkF_C_@OwDcByLyFUKUIaBw@UKQKOGOGmBaAw@_@cAg@}Aw@IEuB_A}@c@_Bs@}@c@cAe@{@]_@Qe@S_CeAyCsA[I]OKEA?EAECICi@O_@MEAY@SKEA[MeHcDq@_@GCQIiB}@[OECSIg@Uc@SOGuBaAe@SyAo@m@WKWm@[GEs@[]OkAg@SKKECAa@QAAcBq@wDoB_@Q]SkCsAIEGCc@Ya@Yw@g@]USMiBy@w@]s@_@MM{As@iLoF{As@MGCAKGOGCAa@SkAi@GE[MECSK_@O]OsD{AUI{@_@u@_@e@SiAg@[OA?OGIE}@c@mCsAIC_Bw@]Si@U{@c@s@[sCiAIAu@[MGiBk@EAMGOGy@]aBs@aCcAiCkA?AA?qEuB]Q_Ac@_@Q{DiB_Ac@{DkB_Bu@}CwA}Au@wBcAq@[_@U_@U_Bs@sB_AIE_@QuAm@O\\"
+              },
+              "start_location": { "lat": 13.763329, "lng": 100.5446413 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 13.9142905, "lng": 100.5980738 },
+                  "name": "Don Mueang New Market"
+                },
+                "arrival_time": {
+                  "text": "8:22\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688779357
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.763329, "lng": 100.5446413 },
+                  "name": "สำนักงาน ป.ป.ส."
+                },
+                "departure_time": {
+                  "text": "7:50\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688777437
+                },
+                "headsign": "Rangsit",
+                "headway": 900,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "1-18E EV (504 EV) : Bang Rak - Rangsit (Expressway)",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 8
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "20.9 km", "value": 20918 },
+              "duration": { "text": "54 mins", "value": 3211 },
+              "end_location": { "lat": 14.0753195, "lng": 100.6017084 },
+              "html_instructions": "Bus towards Thammasat University (Rangsit)",
+              "polyline": {
+                "points": "is|sA}`_eRN]uAo@{DkB_@QQIIEIEGCeAg@yAo@yAq@s@]_@QGAWM]QmB{@uAq@aAc@w@_@cBy@i@Ui@YsAm@?A]O_@Q_@QqAm@o@[_@SQIC?MGIEw@]qAm@SICAA?CCCCECiBw@s@_@UM_@Qs@]gAa@g@UGCQI_@Q{BgAYOCA[Q{@a@kB_AcAc@AAOGECIEUKgAg@gAg@_Bu@qAk@aBw@OIuBcAu@]}@a@e@S[OOGECIEa@Qu@_@e@U_@Qc@SaAe@i@Wk@YMGQIy@]cCiAcBw@OGMGA?UMMGm@WSKKGUIuAk@_Bq@oAg@y@a@]Qu@]WMc@KGAWOICoAk@i@YkAg@IEGEWKCCOISIQISMqAo@k@YSIIEIEe@Sc@SgAk@o@[GEOMaF}BqB_AoB}@ECECm@YOI_@QOImB}@eEmBWMiBy@UKMGMGwAo@wAq@}DiB]Q}DiB_Ac@yDgB}@c@MGm@Wm@YGCECICIC_@Oi@UUIs@YeBo@wBw@g@Oa@KQEOCc@IKAiAOIA_@EIAGAK?WCOAuBIm@AE?aA@[?G?c@B[?G@c@@[Bo@BA@K@A?K@qANWBc@DC@]DE?gCZs@HwDb@c@FOBQBUBG@C?I@eD\\SBaBPcE`@oCP}@HqBTG@qBRwALuM|AQBG?I@G@I@{Gp@sEd@uANeGn@oALE@qALk@Fw@HK@?@I@m@Fs@FcAJ_Eb@E?uCXQ@}ANwBRs@HiCTgCTkDZM@SBk@F[Be@D]Da@DaAHoD\\A?gBRI?WDA?G@qCVcHr@G@I@G?G@C?I@oBRs@F{@H}@JSBI@M@I@QBG?SBWBMBuD^o@FiALWBe@DYDM@}@Hu@HQ@qANy@HYDwANmAHcCD}AAeCCm@Ac@A{CGeDCK?e@Ac@?k@As@As@A{@AmBEU?m@Aw@?gCEG?WAG?c@As@AiA?qCAcDAyBEaGEwCCO?qBEkAEcBCi@?a@@S?w@?WD_HU]?A?[AsBAqD@_BAmBCoQSaAAQ?O?]?OBQBM?c@?w@AM?[?c@Ai@?e@@O@UDQ?i@Ai@Cy@Ay@Ce@Ag@Ae@?e@?gAAa@AO?QAaAAS?o@AkAAiAA}DE_EEe@AuFIk@Aa@AaBAA?UAcAAC?Q?WAs@Au@CO?OAYAC?U?sBE_BAMAK?e@AsCEu@A}@C_AAo@AQ?I?uACQ?S?m@Am@Aq@?q@AM?M?e@Aq@?YAQ?c@AOAMA[?[@m@C[AW?WAWAc@?c@Ag@?mAC{AAa@Ca@Ao@AoBGQ?IA_AC}@?}@AaACc@CKAG?KAIACAA?CAAACAAAACO?yBAy@?kAAU?iCEwACe@A[AYAa@?E?[A}DIm@?aBCyAAm@Ae@A]AG?qAEm@A[CEHC@C@A@C?E@E?g@?k@AW?U?G?QAoBGoAAcCEkBEg@?YAaACuCAu@AiDEmBCcCE_BC_@?_@A}DG}DE_@Aa@AS?QAy@CE?y@AOAE?I?]Aa@?kCEU?YA[?iBCcACaACYA[CM?K?[?]A[?kBAUAo@?aAAsBGYAU?K?u@Ac@Ac@AK?}@COAu@AU?]AaDEiAAa@LMBO@E?C?i@Ca@IMEGEqACg@?gA?{EEuBCeJEuCAo@Ck@EqCI}ACkACm@A{BC]A]C{@Ay@A_@?Q?A?s@?g@Ae@AAf@?h@?zA?zA@lGUJSJORFb@B\\?^?H@~E?R@tG@vD?d@?b@@~C?`D?bG@xF?fDAt@?l@AFAHEHC@C?}@@a@?i@@aA?O?G?}@?o@?E@YFAj@?z@AbA\\An@?\\@T@D?X?X?N@\\@Z?J?@A@A@A@A@??A@?@?@A@?@?@?@?@?@?@??@@?@??@@?@??@@??@@??@@@?@@@?@@@?@?@?@?@?@?@?@A??@?@A@?@A??@A??@A??@ELCJAV?j@GpBA`@Ad@?ZAZ?F?@?H?@|@?H?H?zBAH??O"
+              },
+              "start_location": { "lat": 13.9142905, "lng": 100.5980738 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 14.0753195, "lng": 100.6017084 },
+                  "name": "Behind The Science Park"
+                },
+                "arrival_time": {
+                  "text": "9:26\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688783168
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.9142905, "lng": 100.5980738 },
+                  "name": "Don Mueang New Market"
+                },
+                "departure_time": {
+                  "text": "8:32\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688779957
+                },
+                "headsign": "Thammasat University (Rangsit)",
+                "headway": 600,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "510 NGV : Victory Monument - Thammasat University (Rangsit)",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 32
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "0.3 km", "value": 296 },
+              "duration": { "text": "4 mins", "value": 218 },
+              "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+              "html_instructions": "Walk to 99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+              "polyline": {
+                "points": "wa|tAew_eRfAA?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqBbAAhACz@CDCDCBC@CBEBI@I"
+              },
+              "start_location": { "lat": 14.0753181, "lng": 100.6016287 },
+              "steps": [
+                {
+                  "distance": { "text": "40 m", "value": 40 },
+                  "duration": { "text": "1 min", "value": 29 },
+                  "end_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "html_instructions": "Head <b>south</b> on <b>ถ. ตลาดวิชา</b>",
+                  "polyline": { "points": "wa|tAew_eRfAA" },
+                  "start_location": { "lat": 14.0753181, "lng": 100.6016287 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 114 },
+                  "duration": { "text": "1 min", "value": 84 },
+                  "end_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+                  "maneuver": "roundabout-left",
+                  "polyline": {
+                    "points": "o_|tAgw_eR?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB"
+                  },
+                  "start_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 142 },
+                  "duration": { "text": "2 mins", "value": 105 },
+                  "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+                  "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "__|tAm}_eRbAAhACz@CDCDCBC@CBEBI@I" },
+                  "start_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "s`_sAwsrdRpCqH^{@HULF^PCBOGPe@@MWIQ^]QqAk@aEmBsB{@o@Q_BCM@OAa@E[Kg@We@i@U[Bo@J{@Jg@`Be@~@VDBHILMLSL_@z@cCn@eB@]x@iCt@yB`@}@p@sADq@q@_Ea@wBKBJCMm@SaAy@uEY_Bm@eDSSiCoAcAg@uD}AeBs@SQy@s@QGwBgA{@e@q@_@gG}C}F_C}CsASSq@[wL_FmEkBsB_AwA}@_CaAaBq@}DiBg@[oEiCgLmFkEwBkE_CsBcAy@WqD_BgAi@sCqAiAe@_Aa@yAa@qCi@SC{AS{BU}BGqD@kBFgI\\aDRwCNeOx@_DPkWfA}Kh@uI`@qFZaBFoJb@uIXuAFgFXaJj@mJ\\{DRwBTsAFgDLcERiAH{I`@yN`@{EVyFXoCTwF`@W@{Gh@mFXsJf@eHRqBAkBI_H[iFk@uDu@sEiAgEkA_Bi@iFuB_CcAoB}@cCcAcEiBoBu@kAi@}By@yAo@U_@yBgAkB}@mAq@yBcAYc@}CuAeEeBeRgIyHmD{PkHo\\yN}b@gR}SsJyCwAuOsH}R{IgCy@e@OY@SKa@OwIcEcCkA}As@oEqBgCgAKWm@[{@a@iBw@eAe@eBs@wEaC{DqB{CqBiFeCMM{As@eOcHm@YoEsBcHuCaEkBoJuEeBy@gEeB_A]wBs@}Ao@mJeEmQkIwOoHiD_B_Ak@}FkCuAm@O\\N]uAo@{E}B[OqDaBoLqFcLmFwLuFgD_BqD_BaBu@uDkBcHeD_RuIyOoHeJeEcBu@_IgDsAo@{@YyBaAgEqBqFkCcDaBOMaF}BaF}By@a@mDcBqMaGwXoM}CqAyEiB_DgAs@QiC_@{@KiDOqC?aEP_TbC{D`@uBTcE`@oCPoD^yBTgQnBw\\jDqEf@qRjBwTrBg]fDwb@hEqBTqENuHIsJMwDEmMQiDCuHC{JKeJOcEAoAD}HUcIA_Z[a@?m@B_@B{AAwBAu@Bg@DgEKeHIee@i@eU_@_EGeCCsHGsEIaHK{IS}FIcAG[KQCyBAeHGuLUwGG}CIiAEIJODqBA_DIoSWw\\c@yOW{IQ{DE_GKyFKkGIiAAa@L]DI?kAMUKyBC_WOeEE}DOsIMqDIgB?mACApA?vD@lGUJc@^J`A@|GBvOB~XCrGGRG@kEBeC?_@HAfBAbA\\AlA@nA@tABBCHEV@HTGRKZKvECdB?J|@@xCA?O?NfAC?C@ABEDA@ABaAAqBbAAdCGPOHY"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": { "lat": 14.0778338, "lng": 100.6175393 },
+        "southwest": { "lat": 13.7531464, "lng": 100.518986 }
+      },
+      "copyrights": "Map data ©2023 Google",
+      "legs": [
+        {
+          "arrival_time": {
+            "text": "9:30\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688783400
+          },
+          "departure_time": {
+            "text": "7:01\u202fAM",
+            "time_zone": "Asia/Bangkok",
+            "value": 1688774460
+          },
+          "distance": { "text": "48.0 km", "value": 48018 },
+          "duration": { "text": "2 hours 29 mins", "value": 8940 },
+          "end_address": "99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+          "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+          "start_address": "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+          "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+          "steps": [
+            {
+              "distance": { "text": "0.3 km", "value": 331 },
+              "duration": { "text": "5 mins", "value": 288 },
+              "end_location": { "lat": 13.7617739, "lng": 100.5366584 },
+              "html_instructions": "Walk to Century",
+              "polyline": {
+                "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HULFLFPHCBA?A?KGA??AFKDKDK?ABG?AAAMEA@CCCA"
+              },
+              "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+              "steps": [
+                {
+                  "distance": { "text": "0.2 km", "value": 239 },
+                  "duration": { "text": "3 mins", "value": 172 },
+                  "end_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "html_instructions": "Head <b>southeast</b> on <b>ถนน โยธี</b> toward <b>ถ. พญาไท</b>",
+                  "polyline": { "points": "s`_sAwsrdRXw@x@uB^cA\\_AN]N]HU" },
+                  "start_location": { "lat": 13.7628215, "lng": 100.5345224 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "24 m", "value": 24 },
+                  "duration": { "text": "1 min", "value": 20 },
+                  "end_location": { "lat": 13.7616501, "lng": 100.5363277 },
+                  "html_instructions": "Turn <b>right</b> onto <b>ถ. พญาไท</b>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "wz~rA{_sdRLFLFPH" },
+                  "start_location": { "lat": 13.7618783, "lng": 100.5364593 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "21 m", "value": 21 },
+                  "duration": { "text": "1 min", "value": 27 },
+                  "end_location": { "lat": 13.7617583, "lng": 100.5363611 },
+                  "html_instructions": "Turn <b>right</b> toward <b>ถ. พญาไท</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "iy~rAa_sdRCBA?A?KGA??A" },
+                  "start_location": { "lat": 13.7616501, "lng": 100.5363277 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "26 m", "value": 26 },
+                  "duration": { "text": "1 min", "value": 38 },
+                  "end_location": { "lat": 13.7616361, "lng": 100.5365902 },
+                  "html_instructions": "Take the pedestrian overpass",
+                  "polyline": { "points": "_z~rAg_sdRFKDKDK?ABG" },
+                  "start_location": { "lat": 13.7617583, "lng": 100.5363611 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "18 m", "value": 18 },
+                  "duration": { "text": "1 min", "value": 29 },
+                  "end_location": { "lat": 13.7617285, "lng": 100.5366332 },
+                  "html_instructions": "Turn <b>left</b> toward <b>ถ. พญาไท</b><div style=\"font-size:0.9em\">Take the stairs</div>",
+                  "maneuver": "turn-left",
+                  "polyline": { "points": "gy~rAu`sdR?AAAMEA@" },
+                  "start_location": { "lat": 13.7616361, "lng": 100.5365902 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "3 m", "value": 3 },
+                  "duration": { "text": "1 min", "value": 2 },
+                  "end_location": { "lat": 13.7617739, "lng": 100.5366584 },
+                  "html_instructions": "Slight <b>right</b> onto <b>ถ. พญาไท</b>",
+                  "maneuver": "turn-slight-right",
+                  "polyline": { "points": "yy~rA}`sdRCCCA" },
+                  "start_location": { "lat": 13.7617285, "lng": 100.5366332 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "2.6 km", "value": 2578 },
+              "duration": { "text": "5 mins", "value": 300 },
+              "end_location": { "lat": 13.7568768, "lng": 100.518986 },
+              "html_instructions": "Bus towards Sanam Luang",
+              "polyline": {
+                "points": "az~rAgasdREJDBVJFB^Pp@Zp@\\|@`@n@XrFfCRJDBDBRJRJt@^t@^ZLZLLFB@FDFBZLXJJD@@ZND@z@`@HB@@TJJDXNFBFDf@RFDDB\\NFBFBHDb@Rv@^z@^FDHDVLPHh@TVLb@Rb@Rb@RFBZNb@PPHLHLFXJHBHBJBLBCLEL?@Ol@ADCFELELCJCJSx@Sv@m@~BOt@ABCBA@A@C?A@A?C?K`@CNOj@Md@K`@YfAADCJCHEPGTETENSz@o@fCGPER]rAEJU~@WbACLELK`@GRQp@GRCFAFK^?@K\\Kd@Kd@B^AH?@?@A@?BEPADENCHCJO`@K\\CdAC\\ENCLSt@Qt@K\\I^KZK\\IXIXELELAFCFA@?BCD?BCDAD?BCHCHETABADCNBL@BHp@Bf@HdAB\\F|@@DBA"
+              },
+              "start_location": { "lat": 13.7617702, "lng": 100.5366765 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 13.7568768, "lng": 100.518986 },
+                  "name": "Baan Manangkhasila"
+                },
+                "arrival_time": {
+                  "text": "7:30\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688776249
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.7617702, "lng": 100.5366765 },
+                  "name": "Century"
+                },
+                "departure_time": {
+                  "text": "7:25\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688775949
+                },
+                "headsign": "Sanam Luang",
+                "headway": 1200,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "59 REG : Rangsit - Sanam Luang",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 3
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "10 m", "value": 10 },
+              "duration": { "text": "1 min", "value": 18 },
+              "end_location": { "lat": 13.7569576, "lng": 100.5189872 },
+              "html_instructions": "Walk to King Phet",
+              "polyline": { "points": "m{}rAwrodRCAIBC?" },
+              "start_location": { "lat": 13.7568728, "lng": 100.5190036 },
+              "steps": [
+                {
+                  "distance": { "text": "10 m", "value": 10 },
+                  "duration": { "text": "1 min", "value": 18 },
+                  "end_location": { "lat": 13.7569576, "lng": 100.5189872 },
+                  "html_instructions": "Head <b>north</b> toward <b>ถนน หลานหลวง</b>",
+                  "polyline": { "points": "m{}rAwrodRCAIBC?" },
+                  "start_location": { "lat": 13.7568728, "lng": 100.5190036 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            },
+            {
+              "distance": { "text": "44.8 km", "value": 44785 },
+              "duration": { "text": "55 mins", "value": 3300 },
+              "end_location": { "lat": 14.0754798, "lng": 100.601579 },
+              "html_instructions": "Bus towards Thammasat University Rangsit Campus",
+              "polyline": {
+                "points": "_|}rAwrodRHCG{@GcAIaAGk@COGSKMMIQMGE@EJOR[Zw@kAmAc@i@CEIGW_@MMKIEWCKIQSi@i@oAQo@Kg@GmACSGWGQGMCCKOMI?A_@QGEi@QKCAAo@Uk@Qe@QQMKKME[IYKMCGCYIOGsNiEA?QEwAc@KEiF_BcCy@_@KAAcBi@cAY_@Ma@KUIcAYi@Qa@KkEsAGEKCIEICIEA?AAKCaA_@IEA?_Bm@oBk@eBk@UAkDgAg@Sg@UQGoD{AqK}CA?[K_Bc@eAWKEECA?c@O_@OiCq@}@YGACAMCoBm@m@WgHoBm@S{@SKEcCq@IEKEaA[m@W_Du@qPkFaGcBqAa@C?]Mu@UYKYISEOGk@QGCWGkJsCKCsBm@WKuAe@IE}A_@m@ScAWcCi@kASoDa@a@CEAuG]wAMwAQaCa@UGSEQGgAYmBq@iAi@y@c@w@e@YOmCoBa@]aBeB_FiG_DoDuAeBCEEC?AWYU[gDcEcBkBq@q@OQQQOMIIEC[]oDuCc@YsGsDsAk@gBm@YIGCECEAq@Uu@SyA]_C_@WGm@IQAoEa@cACmF@gBBoADs@?_AD_Gh@}BLgBPA?eAJA@g@DiDb@A?{@NIBWDGBcATwBn@cA^EBiAb@iAl@kBhAw@h@oA`AEDIFoBjBsAbBgAzA_DxDqAvAqApAiAbA{@r@}@n@UTy@r@uBxAC@wFnDULA@KFCB]PIFkEhCq@b@qC`By@h@m@ZMHEDk@\\MFMHMJSJWPaHbEmK|Gq@n@gDvBWLA?_ClA[L}BdAy@Z{@`@gC|@A@mDdAiBb@iCd@qANWDWBYDYBMB_BLyAHiCHyG?}ID{P?sMHm@AE@_AA}NFwGAkRJcK?kBEk@Cy@I{@Gm@GqHmA?A}IwAa@IsN{BSEqLiBEAuZ{EgGeAcASo@Ko@MyCq@aBe@m@O_D_AGAGCm@QGAsAa@AA{C}@GA{F_ByHaBA?iTmDAA_@GE?aK{AICsEq@cBY{@KG??AMA{AWA?mHgAQEw@MA?WGaB[sAQUEKAqB[C?SEi@Ia@KiEo@yEy@aE{@OAe@GmEW{BCYAK?IAM?MAK?]AcICoFIKAk@CK?UACAyBQ?AyC[c@GaAKC?iBQc@Gq@GC?w@I[A[CSCA?MAI?aFg@QA_AMkNuAcCc@k@M}@WcGiC_B{@{B_BcBeAkEyCyDeCWSwL_IsE_DwAiAYYi@c@GICAMKKMuJsJi@k@q@i@EEkBwAm@i@o@e@}DiCcBcAgE}BaCkA}GkCOEsIaDIEmCaAEAiAc@OEyJoDiGcBE?c@M}@SUIQEA?[Gm@SkI_BqC_@kS{DC?q[cG_ASqI_BIA}Bc@ICIAmAUGCcAQuAYE?CAwd@{IcAWsGwAWI}J_CYIuo@gOYIWE_Cg@u@MkAOaBOkBIiD?cCFqAHQBwAJSBwQ|CA@M@OD}e@|HC?mDj@a@HmC`@gFj@qPrAYDaEV[DgF\\mD@kCGoD]c@Iu@KaAQoBe@iA]sAe@s@[wd@gQe@U}F{BIEsAe@m@WaCy@u@[wE_B_HoBc@K_Bc@sGuAGCeOsCA?uOoCsAQmAWWECAIAuj@}J{Cq@oASsGkAYEcLqBeFy@sH_AoIy@E?wHi@I?qAI}Le@gBEIAYAsDAgQFwl@nAyGTkYn@SHY@]BcFRg@@gDNuANsDFOCu@?gADeAHoB`@e@HeDr@cCd@a@Fc@BUAMCKASGQE[SQSMQM[I]Ec@?YBYJg@HSd@wAZ}AD_@BGDSV_BDkR@_@DcR@i@DiL@e@@kC@]@aHDqEDc@?YPwBVgCHoCF[?C@??OH_FGUAU?m@?[?_A?I?gADmF?C?]?]J}J@i@?KFaJ?C?Y?Y@U@W?_@ByB@s@?aALyA@yB@uA?u@LqN@mA@q@@U?wA@eA?M?e@?g@@m@?E?u@@e@?m@?i@?e@@cA@k@@WBcAE_@?YCc@Gg@EYI[KYSa@M[Q[OWKOQMSO]MWGM?WAOAOCKE{EEuBCeJEuCAo@Ck@EqCI}ACkACm@A{BC]A]C{@Ay@A_@?Q?A?s@?g@Ae@AAf@?h@?zA?H?pA@lGUJSJORFb@B\\?^?H@~E?R@tG@vD?d@?b@@~C?`D?bG@xF?fDAt@?l@AFAHEHC@C?}@@a@?i@@aA?O?G?}@?o@?E@YFAj@?z@AbA\\An@?\\@T@D?X?X?N@\\@Z?J?@A@A@A@A@??A@?@?@A@?@?@?@?@?@?@??@@?@??@@?@??@@??@@??@@@?@@@?@@@?@?@?@?@?@?@?@A??@?@A@?@A??@A??@A??@ELCJAV?j@GpBA`@Ad@?ZAZ?F?@?H?@|@?H?H?dBA?H"
+              },
+              "start_location": { "lat": 13.7569636, "lng": 100.5190043 },
+              "transit_details": {
+                "arrival_stop": {
+                  "location": { "lat": 14.0754798, "lng": 100.601579 },
+                  "name": "Thailand Science Park"
+                },
+                "arrival_time": {
+                  "text": "9:26\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688783168
+                },
+                "departure_stop": {
+                  "location": { "lat": 13.7569636, "lng": 100.5190043 },
+                  "name": "King Phet"
+                },
+                "departure_time": {
+                  "text": "8:31\u202fAM",
+                  "time_zone": "Asia/Bangkok",
+                  "value": 1688779868
+                },
+                "headsign": "Thammasat University Rangsit Campus",
+                "headway": 3600,
+                "line": {
+                  "agencies": [
+                    {
+                      "name": "Bangkok Mass Transit Authority(BMTA)",
+                      "url": "http://www.bmta.co.th/en"
+                    }
+                  ],
+                  "color": "#00a550",
+                  "name": "1-9E EV : Thammasat University Rangsit Campus - Sanam Luang (Expressway)",
+                  "text_color": "#ffffff",
+                  "vehicle": {
+                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                    "name": "Bus",
+                    "type": "BUS"
+                  }
+                },
+                "num_stops": 6
+              },
+              "travel_mode": "TRANSIT"
+            },
+            {
+              "distance": { "text": "0.3 km", "value": 314 },
+              "duration": { "text": "4 mins", "value": 231 },
+              "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+              "html_instructions": "Walk to 99 Phahonyothin Road, Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+              "polyline": {
+                "points": "wb|tAew_eRT?pAA?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqBbAAhACz@CDCDCBC@CBEBI@I"
+              },
+              "start_location": { "lat": 14.0754804, "lng": 100.6016261 },
+              "steps": [
+                {
+                  "distance": { "text": "58 m", "value": 58 },
+                  "duration": { "text": "1 min", "value": 42 },
+                  "end_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "html_instructions": "Head <b>south</b> on <b>ถ. ตลาดวิชา</b>",
+                  "polyline": { "points": "wb|tAew_eRT?pAA" },
+                  "start_location": { "lat": 14.0754804, "lng": 100.6016261 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 114 },
+                  "duration": { "text": "1 min", "value": 84 },
+                  "end_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>ถนน โดมร่วมใจ</b>",
+                  "maneuver": "roundabout-left",
+                  "polyline": {
+                    "points": "o_|tAgw_eR?A?A?A@??A@A?A@??A@?@A@?@A@?@??aAAqB"
+                  },
+                  "start_location": { "lat": 14.0749626, "lng": 100.6016352 },
+                  "travel_mode": "WALKING"
+                },
+                {
+                  "distance": { "text": "0.1 km", "value": 142 },
+                  "duration": { "text": "2 mins", "value": 105 },
+                  "end_location": { "lat": 14.0737298, "lng": 100.6028922 },
+                  "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                  "maneuver": "turn-right",
+                  "polyline": { "points": "__|tAm}_eRbAAhACz@CDCDCBC@CBEBI@I" },
+                  "start_location": { "lat": 14.0748832, "lng": 100.6026313 },
+                  "travel_mode": "WALKING"
+                }
+              ],
+              "travel_mode": "WALKING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "s`_sAwsrdRpCqH^{@HULF^PCBOGPe@@MWIEF\\NjCnAtJnEvEzBdBt@pGvCvLtFpAl@x@VLBIZU|@yBzIIJK@yA~FiBlHmD~MWjA@h@AHe@~AK\\CdAIl@u@vCcApDOb@Ml@CHCNBLJt@LlBJzADBACMBHEO_CQmBKc@s@k@|@iB}BeCe@m@KIEWM]}@yB]wAKaB[{@YY_@S_A]{Ag@w@_@YQu@U_AY_RsFcR_GgLkDyB{@aBm@uEwAUAkDgAoAi@aEcBsK}CmEmAkAc@sEoA}Bq@m@WgHoBiBg@oCw@eC_A_Du@qPkFsIeCqBo@iBi@wKcDkFeBkCs@gEaA{Fu@g@EmJk@yEs@cCo@wD{AqBiAgD_CcCcC_FiG_DoDyAkBs@{@kGoHaAcAq@m@kEsDwHmE}EgBsBo@yE}@eAQaFc@qHAkHN}Jv@iBPyGv@_BXkAX{DnAoAf@uDvBwCxBoBjBsAbBgFtGcDhDeCvBcGrEsG`EaO~IkDrByHtEmK|Gq@n@_EdCaClAoGpCiC~@wGhB{Et@o@HaDZcFRwRD{P?sMHs@?}PDc[HoNEeBMiBOqHoAg[cFwLkB}b@aH}H_BiMqDaLaD{HaBkToDqLgB{JwAeNwBcF{@uCc@oN_CqE}@sF_@kDGeACsPMw@E_DUcMsAaDU_XmCoDq@}@WcGiC_B{@{B_BoH_F}YyRcDqCsKoK{AuAqB}A}AoAaHmEiIiEmHqCqNkFyAi@yJoDiGcBi@MsA]}Aa@kI_BqC_@oS{Dmh@yJ_F_AgDo@{d@}IwIoBe}@{SgFeAmD_@kBIiD?uEPiBN{RdD_l@nJoDj@gFj@qPrA{E\\cGb@mD@kCGsEg@wB]yDcAej@_TiK_EwDuAwE_B_HoBcCo@{GyAgOsCiRaDsBa@uj@}J{Cq@cJ_B}LwBeFy@sH_AuIy@aIi@aSw@mECgQFwl@nAeb@dAm@JqMh@uANsDFeACmCNuCj@iHxAeAJcAOm@Y_@e@Wy@E}@NaAn@kBj@yCV_BDkRFcSJeSB_IJuFPqCVgCHoCF_@@OH_FGUAcA?mDZca@F_G@uBLyA@yB@kCN_QDeF@iCDoID{AEy@KkAOu@_AsB[g@e@]u@Ue@A_@EKE{EE{MIeEEgJWmKOcCCAvD@~Ii@VORFb@B|@BrOB`L@fYEtBIJaA@}C@{B@YFAj@A~B`C@hA@fA?BCHETDHTIPKr@KdFA`A?JfA?nBA?H?IfBA?C@A?ADEBABA?sDlCE`AGNQDS"
+      },
+      "summary": "",
+      "warnings": [
+        "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+      ],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

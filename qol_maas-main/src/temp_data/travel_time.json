@@ -1,0 +1,26 @@
+{
+  "destination_addresses": [
+    "เลขที่ 2 ถนนพระจันทร์ แขวงพระบรมมหาราชวัง Khwaeng Phra Borom Maha Ratchawang, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand"
+  ],
+  "origin_addresses": [
+    "2/1 Yothi Rd, Khwaeng Thung Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "5.7 km",
+            "value": 5706
+          },
+          "duration": {
+            "text": "16 mins",
+            "value": 987
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}
